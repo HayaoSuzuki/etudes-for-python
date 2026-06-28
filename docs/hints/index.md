@@ -7,3 +7,4 @@
 - [002: Hello world 2nd stage](002-hello-world-2nd-stage.md)
 - [003: Extended FizzBuzz](003-extended-fizzbuzz.md)
 - [004: Alternative FuzzBuzz](004-alternative-fuzzbuzz.md)
+- [005: テトラナッチ数列](005-tetranacci.md)
