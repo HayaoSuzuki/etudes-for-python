@@ -25,3 +25,5 @@
 - [019: 紅美鈴はよく眠る](019-password-validator.md)
 - [020: 私の戦闘力は53万](020-password-strength-indicator.md)
 - [021: 世界の合言葉は森](021-password-generator.md)
+- [022: 64文字の手紙](022-base64-family.md)
+- [023: 石の上にもニム](023-nim-winning-move.md)
