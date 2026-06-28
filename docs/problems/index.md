@@ -1,7 +1,7 @@
 # 問題
 
-問題だけを並べます。
-必要ならヒントを読み、それでも詰まる場合に解答を確認します。
+問題の一覧です。
+必要ならヒントを読み、それでも詰まる場合に解答を確認しましょう。
 
 - [001: 驚くべき関数](001-even-or-odd.md)
 - [002: Hello world 2nd stage](002-hello-world-2nd-stage.md)
@@ -17,3 +17,7 @@
 - [012: エラトステネスの篩](012-sieve-of-eratosthenes.md)
 - [013: RSA暗号](013-rsa-cipher.md)
 - [014: ハノイの塔](014-tower-of-hanoi.md)
+- [015: 中置記法から逆ポーランド記法へ](015-infix-to-rpn.md)
+- [016: 逆ポーランド記法電卓](016-reverse-polish-notation.md)
+- [017: 小町算](017-komachi-calculation.md)
+- [018: テンパズル](018-ten-puzzle.md)

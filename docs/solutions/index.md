@@ -1,6 +1,6 @@
 # 解答
 
-実装例と考え方をまとめます。
+実装例と考え方の一覧です。
 先に問題を読み、必要に応じてヒントを確認してから読むことを想定しています。
 
 - [001: 驚くべき関数](001-even-or-odd.md)
@@ -17,3 +17,7 @@
 - [012: エラトステネスの篩](012-sieve-of-eratosthenes.md)
 - [013: RSA暗号](013-rsa-cipher.md)
 - [014: ハノイの塔](014-tower-of-hanoi.md)
+- [015: 中置記法から逆ポーランド記法へ](015-infix-to-rpn.md)
+- [016: 逆ポーランド記法電卓](016-reverse-polish-notation.md)
+- [017: 小町算](017-komachi-calculation.md)
+- [018: テンパズル](018-ten-puzzle.md)
