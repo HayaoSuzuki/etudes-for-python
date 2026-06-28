@@ -1,0 +1,6 @@
+nav:
+  - ホーム: index.md
+  - 執筆ガイド: authoring.md
+  - 問題: problems
+  - ヒント: hints
+  - 解答: solutions
