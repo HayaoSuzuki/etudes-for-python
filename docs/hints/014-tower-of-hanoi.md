@@ -1,9 +1,9 @@
 ---
-title: "014: ハノイの塔のヒント"
+title: "014: 終焉のカウントダウンのヒント"
 description: "大きな問題を同じ形の小さな問題に分ける。"
 ---
 
-# 014: ハノイの塔のヒント
+# 014: 終焉のカウントダウンのヒント
 
 [問題](../problems/014-tower-of-hanoi.md) / [解答](../solutions/014-tower-of-hanoi.md)
 

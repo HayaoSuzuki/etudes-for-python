@@ -1,9 +1,9 @@
 ---
-title: "017: 百夜通いの解答"
+title: "017: 「百夜通い」の解答"
 description: "候補式を逆ポーランド記法へ変換し、分数で正確に100と比較する。"
 ---
 
-# 017: 百夜通いの解答
+# 017: 「百夜通い」の解答
 
 [問題](../problems/017-komachi-calculation.md) / [ヒント](../hints/017-komachi-calculation.md)
 
@@ -145,7 +145,7 @@ assert "1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 * 9 = 100" in solutions
 `infix_to_rpn` は、通常の演算順位を反映した逆ポーランド記法へ変換します。
 そのため、`komachi_solutions` は、候補式の生成と判定だけに集中できます。
 
-`evaluate_rpn_exact` は、前問の逆ポーランド記法電卓と同じスタック処理です。
+`evaluate_rpn_exact` は、前問で作った評価器と同じスタック処理です。
 違いは、スタックに `float` ではなく `Fraction` を積むことです。
 
 ## 参考

@@ -1,9 +1,9 @@
 ---
-title: "016: 逆ポーランド記法電卓の解答"
+title: "016: 「計算機上に実装する電卓」の解答"
 description: "数値と演算子を左から読み、スタックで式を評価する。"
 ---
 
-# 016: 計算機上に実装する電卓の解答
+# 016: 「計算機上に実装する電卓」の解答
 
 [問題](../problems/016-reverse-polish-notation.md) / [ヒント](../hints/016-reverse-polish-notation.md)
 
@@ -77,4 +77,3 @@ assert format_result(evaluate_rpn("-3 4 * 10 +")) == "-2"
 ## 参考
 
 - [逆ポーランド記法](https://ja.wikipedia.org/wiki/%E9%80%86%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%A8%98%E6%B3%95)
-
