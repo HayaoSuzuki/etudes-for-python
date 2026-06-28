@@ -26,3 +26,5 @@
 - [021: 世界の合言葉は森](021-password-generator.md)
 - [022: 64文字の手紙](022-base64-family.md)
 - [023: 石の上にもニム](023-nim-winning-move.md)
+- [024: 1+1=?](024-one-plus-one.md)
+- [025: ブールの箱庭](025-boolean-algebra.md)
