@@ -8,3 +8,4 @@
 - [003: Extended FizzBuzz](003-extended-fizzbuzz.md)
 - [004: Alternative FuzzBuzz](004-alternative-fuzzbuzz.md)
 - [005: テトラナッチ数列](005-tetranacci.md)
+- [006: 平方三角数](006-square-triangular-number.md)
