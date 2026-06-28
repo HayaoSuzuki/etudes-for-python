@@ -1,9 +1,9 @@
 ---
-title: "010: 合言葉はレモン"
+title: "010: 檸檬"
 description: "繰り返す鍵を使って英大文字を暗号化する。"
 ---
 
-# 010: 合言葉はレモン
+# 010: 檸檬
 
 [ヒント](../hints/010-vigenere-cipher.md) / [解答](../solutions/010-vigenere-cipher.md)
 

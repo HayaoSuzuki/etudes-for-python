@@ -1,9 +1,9 @@
 ---
-title: "010: 「合言葉はレモン」のヒント"
+title: "010: 「檸檬」のヒント"
 description: "鍵の文字をシフト量として扱う。"
 ---
 
-# 010: 「合言葉はレモン」のヒント
+# 010: 「檸檬」のヒント
 
 [問題](../problems/010-vigenere-cipher.md) / [解答](../solutions/010-vigenere-cipher.md)
 

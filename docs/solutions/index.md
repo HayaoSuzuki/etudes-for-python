@@ -12,7 +12,7 @@
 - [007: アッカーマンの深淵](007-ackermann-function.md)
 - [008: メリー・ポピンズからの暗号文](008-rot47-cipher.md)
 - [009: ASCIIは二度回る](009-rotate-printable-ascii.md)
-- [010: 合言葉はレモン](010-vigenere-cipher.md)
+- [010: 檸檬](010-vigenere-cipher.md)
 - [011: G.C.D](011-euclidean-algorithm.md)
 - [012: 夜の金網をくぐり抜け](012-sieve-of-eratosthenes.md)
 - [013: 小さな鍵、大きな秘密](013-rsa-cipher.md)
