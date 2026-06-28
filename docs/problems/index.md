@@ -13,3 +13,6 @@
 - [008: ROT47暗号](008-rot47-cipher.md)
 - [009: 印字可能ASCIIの回転](009-rotate-printable-ascii.md)
 - [010: ヴィジュネル暗号](010-vigenere-cipher.md)
+- [011: 最大公約数](011-euclidean-algorithm.md)
+- [012: エラトステネスの篩](012-sieve-of-eratosthenes.md)
+- [013: RSA暗号](013-rsa-cipher.md)
