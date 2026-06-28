@@ -4,4 +4,4 @@
 最初のヒントから順に読み、必要なところで止めます。
 
 - [001: 驚くべき関数](001-even-or-odd.md)
-
+- [002: Hello world 2nd stage](002-hello-world-2nd-stage.md)

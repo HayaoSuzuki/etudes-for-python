@@ -4,4 +4,4 @@
 必要ならヒントを読み、それでも詰まる場合に解答を確認します。
 
 - [001: 驚くべき関数](001-even-or-odd.md)
-
+- [002: Hello world 2nd stage](002-hello-world-2nd-stage.md)

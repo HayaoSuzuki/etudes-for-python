@@ -4,4 +4,4 @@
 先に問題を読み、必要に応じてヒントを確認してから読むことを想定しています。
 
 - [001: 驚くべき関数](001-even-or-odd.md)
-
+- [002: Hello world 2nd stage](002-hello-world-2nd-stage.md)
