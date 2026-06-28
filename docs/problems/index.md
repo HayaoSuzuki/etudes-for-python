@@ -10,3 +10,5 @@
 - [005: テトラナッチ数列](005-tetranacci.md)
 - [006: 平方三角数](006-square-triangular-number.md)
 - [007: アッカーマン関数](007-ackermann-function.md)
+- [008: ROT47暗号](008-rot47-cipher.md)
+- [009: 印字可能ASCIIの回転](009-rotate-printable-ascii.md)
