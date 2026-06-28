@@ -1,9 +1,9 @@
 ---
-title: "009: 印字可能ASCIIの回転の解答"
+title: "009: 「ASCIIは二度回る」の解答"
 description: "ASCIIコード33から126までを94文字の輪として扱う。"
 ---
 
-# 009: 印字可能ASCIIの回転の解答
+# 009: 「ASCIIは二度回る」の解答
 
 [問題](../problems/009-rotate-printable-ascii.md) / [ヒント](../hints/009-rotate-printable-ascii.md)
 

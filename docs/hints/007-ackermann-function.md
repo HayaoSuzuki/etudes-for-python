@@ -1,9 +1,9 @@
 ---
-title: "007: アッカーマン関数のヒント"
+title: "007: 「アッカーマンの深淵」のヒント"
 description: "mを小さい値に固定し、定義を具体的な式へ整理する。"
 ---
 
-# 007: アッカーマン関数のヒント
+# 007: 「アッカーマンの深淵」のヒント
 
 [問題](../problems/007-ackermann-function.md) / [解答](../solutions/007-ackermann-function.md)
 

@@ -1,9 +1,9 @@
 ---
-title: "011: 最大公約数の解答"
+title: "011: 「G.C.D」の解答"
 description: "余りが0になるまで2つの数を更新する。"
 ---
 
-# 011: 最大公約数の解答
+# 011: 「G.C.D」の解答
 
 [問題](../problems/011-euclidean-algorithm.md) / [ヒント](../hints/011-euclidean-algorithm.md)
 

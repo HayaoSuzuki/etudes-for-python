@@ -1,9 +1,9 @@
 ---
-title: "012: エラトステネスの篩"
+title: "012: 夜の金網をくぐり抜け"
 description: "エラトステネスの篩でn以下の素数を列挙する。"
 ---
 
-# 012: エラトステネスの篩
+# 012: 夜の金網をくぐり抜け
 
 [ヒント](../hints/012-sieve-of-eratosthenes.md) / [解答](../solutions/012-sieve-of-eratosthenes.md)
 

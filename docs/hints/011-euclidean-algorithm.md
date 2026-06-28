@@ -1,9 +1,9 @@
 ---
-title: "011: 最大公約数のヒント"
+title: "011: 「G.C.D」のヒント"
 description: "余りを使って問題を小さくする。"
 ---
 
-# 011: 最大公約数のヒント
+# 011: 「G.C.D」のヒント
 
 [問題](../problems/011-euclidean-algorithm.md) / [解答](../solutions/011-euclidean-algorithm.md)
 

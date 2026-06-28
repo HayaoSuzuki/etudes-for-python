@@ -1,9 +1,9 @@
 ---
-title: "006: 平方三角数"
+title: "006: 四角い三角関係"
 description: "平方数でも三角数でもある数を、小さい順に10個求める。"
 ---
 
-# 006: 平方三角数
+# 006: 四角い三角関係
 
 [ヒント](../hints/006-square-triangular-number.md) / [解答](../solutions/006-square-triangular-number.md)
 
@@ -57,4 +57,3 @@ True
 
 - [平方三角数](https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%96%B9%E4%B8%89%E8%A7%92%E6%95%B0)
 - [OEIS A001110](https://oeis.org/A001110)
-

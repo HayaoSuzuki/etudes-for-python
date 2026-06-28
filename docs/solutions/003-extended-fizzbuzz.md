@@ -1,9 +1,9 @@
 ---
-title: "003: Extended FizzBuzzの解答"
+title: "003: 「七五三」の解答"
 description: "独立したif文で複数の倍数条件を組み合わせる。"
 ---
 
-# 003: Extended FizzBuzzの解答
+# 003: 「七五三」の解答
 
 [問題](../problems/003-extended-fizzbuzz.md) / [ヒント](../hints/003-extended-fizzbuzz.md)
 

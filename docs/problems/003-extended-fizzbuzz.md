@@ -1,9 +1,9 @@
 ---
-title: "003: Extended FizzBuzz"
+title: "003: 七五三"
 description: "3、5、7の倍数に応じて文字列を作る関数を書く。"
 ---
 
-# 003: Extended FizzBuzz
+# 003: 七五三
 
 [ヒント](../hints/003-extended-fizzbuzz.md) / [解答](../solutions/003-extended-fizzbuzz.md)
 
@@ -46,4 +46,3 @@ True
 ## 発展
 
 105を渡したとき、最後の要素がどうなるかを確認してください。
-

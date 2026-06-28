@@ -1,9 +1,9 @@
 ---
-title: "012: エラトステネスの篩のヒント"
+title: "012: 「夜の金網をくぐり抜け」のヒント"
 description: "倍数を合成数として消していく。"
 ---
 
-# 012: エラトステネスの篩のヒント
+# 012: 「夜の金網をくぐり抜け」のヒント
 
 [問題](../problems/012-sieve-of-eratosthenes.md) / [解答](../solutions/012-sieve-of-eratosthenes.md)
 

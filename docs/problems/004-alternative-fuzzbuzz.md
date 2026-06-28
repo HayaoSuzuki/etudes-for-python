@@ -1,9 +1,9 @@
 ---
-title: "004: Alternative FuzzBuzz"
+title: "004: 宇宙の鍵は3,6,9"
 description: "3、6、9の倍数を優先順位つきで判定する関数を書く。"
 ---
 
-# 004: Alternative FuzzBuzz
+# 004: 宇宙の鍵は3,6,9
 
 [ヒント](../hints/004-alternative-fuzzbuzz.md) / [解答](../solutions/004-alternative-fuzzbuzz.md)
 

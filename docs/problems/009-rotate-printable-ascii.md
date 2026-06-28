@@ -1,9 +1,9 @@
 ---
-title: "009: 印字可能ASCIIの回転"
+title: "009: ASCIIは二度回る"
 description: "印字可能ASCII文字を任意の数だけ回転する。"
 ---
 
-# 009: 印字可能ASCIIの回転
+# 009: ASCIIは二度回る
 
 [ヒント](../hints/009-rotate-printable-ascii.md) / [解答](../solutions/009-rotate-printable-ascii.md)
 

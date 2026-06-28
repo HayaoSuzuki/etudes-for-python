@@ -1,9 +1,9 @@
 ---
-title: "012: エラトステネスの篩の解答"
+title: "012: 「夜の金網をくぐり抜け」の解答"
 description: "素数候補のリストから倍数を消して素数を残す。"
 ---
 
-# 012: エラトステネスの篩の解答
+# 012: 「夜の金網をくぐり抜け」の解答
 
 [問題](../problems/012-sieve-of-eratosthenes.md) / [ヒント](../hints/012-sieve-of-eratosthenes.md)
 
@@ -63,4 +63,3 @@ assert 61 in primes
 ## 参考
 
 - [エラトステネスの篩](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%A9%E3%83%88%E3%82%B9%E3%83%86%E3%83%8D%E3%82%B9%E3%81%AE%E7%AF%A9)
-

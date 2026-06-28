@@ -1,9 +1,9 @@
 ---
-title: "006: 平方三角数のヒント"
+title: "006: 「四角い三角関係」のヒント"
 description: "平方数を候補にし、三角数かどうかを判定する。"
 ---
 
-# 006: 平方三角数のヒント
+# 006: 「四角い三角関係」のヒント
 
 [問題](../problems/006-square-triangular-number.md) / [解答](../solutions/006-square-triangular-number.md)
 

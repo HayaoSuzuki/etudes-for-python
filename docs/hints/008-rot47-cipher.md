@@ -1,9 +1,9 @@
 ---
-title: "008: ROT47暗号のヒント"
+title: "008: 「メリー・ポピンズからの暗号文」のヒント"
 description: "印字可能ASCII文字を94文字の輪として扱う。"
 ---
 
-# 008: ROT47暗号のヒント
+# 008: 「メリー・ポピンズからの暗号文」のヒント
 
 [問題](../problems/008-rot47-cipher.md) / [解答](../solutions/008-rot47-cipher.md)
 

@@ -1,9 +1,9 @@
 ---
-title: "008: ROT47暗号の解答"
+title: "008: 「メリー・ポピンズからの暗号文」の解答"
 description: "印字可能ASCII文字を47文字ずらして復号する。"
 ---
 
-# 008: ROT47暗号の解答
+# 008: 「メリー・ポピンズからの暗号文」の解答
 
 [問題](../problems/008-rot47-cipher.md) / [ヒント](../hints/008-rot47-cipher.md)
 
@@ -55,4 +55,3 @@ Supercalifragilisticexpialidocious
 ## 参考
 
 - [ROT13: ROT47](https://ja.wikipedia.org/wiki/ROT13#ROT47)
-

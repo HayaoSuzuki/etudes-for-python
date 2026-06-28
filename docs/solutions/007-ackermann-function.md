@@ -1,9 +1,9 @@
 ---
-title: "007: アッカーマン関数の解答"
+title: "007: 「アッカーマンの深淵」の解答"
 description: "m=3に固定して閉じた式へ変形し、大きなnまで計算する。"
 ---
 
-# 007: アッカーマン関数の解答
+# 007: 「アッカーマンの深淵」の解答
 
 [問題](../problems/007-ackermann-function.md) / [ヒント](../hints/007-ackermann-function.md)
 

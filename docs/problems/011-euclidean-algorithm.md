@@ -1,9 +1,9 @@
 ---
-title: "011: 最大公約数"
+title: "011: G.C.D"
 description: "Euclidの互除法で最大公約数を求める。"
 ---
 
-# 011: 最大公約数
+# 011: G.C.D
 
 [ヒント](../hints/011-euclidean-algorithm.md) / [解答](../solutions/011-euclidean-algorithm.md)
 

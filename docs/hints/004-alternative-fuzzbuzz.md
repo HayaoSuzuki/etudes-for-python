@@ -1,9 +1,9 @@
 ---
-title: "004: Alternative FuzzBuzzのヒント"
+title: "004: 「宇宙の鍵は3,6,9」のヒント"
 description: "倍数条件の包含関係と優先順位を考える。"
 ---
 
-# 004: Alternative FuzzBuzzのヒント
+# 004: 「宇宙の鍵は3,6,9」のヒント
 
 [問題](../problems/004-alternative-fuzzbuzz.md) / [解答](../solutions/004-alternative-fuzzbuzz.md)
 

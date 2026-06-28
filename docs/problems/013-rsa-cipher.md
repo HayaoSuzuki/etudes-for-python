@@ -1,9 +1,9 @@
 ---
-title: "013: RSA暗号"
+title: "013: 小さな鍵、大きな秘密"
 description: "小さい素数を使ってRSA暗号の鍵生成と暗号化を実装する。"
 ---
 
-# 013: RSA暗号
+# 013: 小さな鍵、大きな秘密
 
 [ヒント](../hints/013-rsa-cipher.md) / [解答](../solutions/013-rsa-cipher.md)
 
