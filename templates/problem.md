@@ -21,9 +21,11 @@ description: "この演習で扱う対象を1文で書く。"
 
 ```python
 >>> function_name("input")
-"output"
+'output'
+
 ```
 
 ## 発展
 
 余裕がある読者向けの追加課題を書きます。
+
