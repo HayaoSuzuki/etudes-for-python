@@ -61,3 +61,11 @@
 - [053: 石の上にもニム](053-nim-winning-move.md) - ☆☆☆☆
 - [054: 1+1=?](054-one-plus-one.md) - ☆☆☆☆
 - [055: ブールの箱庭](055-boolean-algebra.md) - ☆☆☆☆☆
+- [056: 命令表はコードでもある](056-ssc-instruction-table.md) - ☆☆☆
+- [057: ニーモニックの皮をかぶった数](057-ssc-assembly-line.md) - ☆☆☆
+- [058: Accumulatorは一つだけ](058-ssc-step.md) - ☆☆☆☆
+- [059: Jump 0で眠る機械](059-ssc-run.md) - ☆☆☆☆
+- [060: 左に寄せれば二倍になる](060-ssc-shift-double.md) - ☆☆☆
+- [061: 止まらない二倍の列](061-ssc-shift-stop-condition.md) - ☆☆☆☆
+- [062: ラベルは番地を忘れさせる](062-ssc-label-assembler.md) - ☆☆☆☆☆
+- [063: 最大値を探す小さな計算機](063-ssc-maximum-program.md) - ☆☆☆☆☆
