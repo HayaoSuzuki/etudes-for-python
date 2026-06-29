@@ -68,3 +68,14 @@
 - [061: 止まらない二倍の列](061-ssc-shift-stop-condition.md) - ☆☆☆☆
 - [062: ラベルは番地を忘れさせる](062-ssc-label-assembler.md) - ☆☆☆☆☆
 - [063: 最大値を探す小さな計算機](063-ssc-maximum-program.md) - ☆☆☆☆☆
+- [064: 旗を立てれば設定が歩く](064-argparse-flags.md) - ☆☆☆
+- [065: printはもう夜勤しない](065-logging-night-shift.md) - ☆☆☆
+- [066: 括弧に名前をつけた日](066-regex-named-date.md) - ☆☆☆
+- [067: 同点の列は昨日を覚えている](067-stable-score-sort.md) - ☆☆☆
+- [068: 窓は一歩ずつ流れていく](068-sliding-windows.md) - ☆☆☆☆
+- [069: 文字列のふりをした信号機](069-strenum-task-state.md) - ☆☆☆
+- [070: 住所の外へ出る者を見つけろ](070-ipaddress-border.md) - ☆☆☆
+- [071: 同じ顔をした別の文字](071-unicode-canonical-key.md) - ☆☆☆
+- [072: URLはクエリを背負って走る](072-url-query-builder.md) - ☆☆
+- [073: 番人は属性の入口に立つ](073-descriptor-guard.md) - ☆☆☆☆☆
+
