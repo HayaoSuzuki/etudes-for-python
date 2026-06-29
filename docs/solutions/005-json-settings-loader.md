@@ -1,10 +1,10 @@
 ---
-title: "005: 「設定はJSONからレポートを動かす」の解答"
+title: "005: 「JSONは誰の息子」の解答"
 description: "JSONを読み、許可キー、必須値、省略値、入れ子の型を順に検査する。"
 difficulty: 2
 ---
 
-# 005: 「設定はJSONからレポートを動かす」の解答
+# 005: 「JSONは誰の息子」の解答
 
 [問題](../problems/005-json-settings-loader.md) / [ヒント](../hints/005-json-settings-loader.md)
 

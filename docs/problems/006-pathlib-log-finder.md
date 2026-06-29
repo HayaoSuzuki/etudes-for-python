@@ -1,10 +1,10 @@
 ---
-title: "006: ログから失敗の傾向を読む"
+title: "006: ポストモーテム"
 description: "pathlibでログを集め、正規表現とCounterでERRORコード別の要約を作る。"
 difficulty: 2
 ---
 
-# 006: ログから失敗の傾向を読む
+# 006: ポストモーテム
 
 [ヒント](../hints/006-pathlib-log-finder.md) / [解答](../solutions/006-pathlib-log-finder.md)
 

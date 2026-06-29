@@ -1,10 +1,10 @@
 ---
-title: "004: 「売上レポートの入口を作る」のヒント"
+title: "004: 「月初月締」のヒント"
 description: "argparseで選択肢、真偽フラグ、独自の型変換を扱う。"
 difficulty: 1
 ---
 
-# 004: 「売上レポートの入口を作る」のヒント
+# 004: 「月初月締」のヒント
 
 [問題](../problems/004-argparse-flags.md) / [解答](../solutions/004-argparse-flags.md)
 

@@ -1,10 +1,10 @@
 ---
-title: "004: 売上レポートの入口を作る"
+title: "004: 月初月締"
 description: "argparseで売上レポート用の引数を解析し、検証済みの設定辞書を作る。"
 difficulty: 1
 ---
 
-# 004: 売上レポートの入口を作る
+# 004: 月初月締
 
 [ヒント](../hints/004-argparse-flags.md) / [解答](../solutions/004-argparse-flags.md)
 

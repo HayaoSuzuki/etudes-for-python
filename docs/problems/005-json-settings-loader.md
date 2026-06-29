@@ -1,10 +1,10 @@
 ---
-title: "005: 設定はJSONからレポートを動かす"
+title: "005: JSONは誰の息子"
 description: "JSON設定を読み、既定値、未知キー、型、入れ子の辞書を検査する。"
 difficulty: 2
 ---
 
-# 005: 設定はJSONからレポートを動かす
+# 005: JSONは誰の息子
 
 [ヒント](../hints/005-json-settings-loader.md) / [解答](../solutions/005-json-settings-loader.md)
 

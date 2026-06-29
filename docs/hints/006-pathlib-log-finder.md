@@ -1,10 +1,10 @@
 ---
-title: "006: 「ログから失敗の傾向を読む」のヒント"
+title: "006: 「ポストモーテム」のヒント"
 description: "ログファイルを順に読み、ERROR行を解析してコード別に数える。"
 difficulty: 2
 ---
 
-# 006: 「ログから失敗の傾向を読む」のヒント
+# 006: 「ポストモーテム」のヒント
 
 [問題](../problems/006-pathlib-log-finder.md) / [解答](../solutions/006-pathlib-log-finder.md)
 

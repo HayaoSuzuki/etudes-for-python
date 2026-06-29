@@ -1,10 +1,10 @@
 ---
-title: "002: 予定表のすき間を数える"
+title: "002: 先立つもの"
 description: "HH:MM形式の予定一覧から、重複を検出しながら空き時間を求める。"
 difficulty: 1
 ---
 
-# 002: 予定表のすき間を数える
+# 002: 先立つもの
 
 [ヒント](../hints/002-minutes-until.md) / [解答](../solutions/002-minutes-until.md)
 

@@ -1,10 +1,10 @@
 ---
-title: "001: レジは明細を覚えている"
+title: "001: 残業"
 description: "商品表と買い物かごから、明細、小計、税額、合計、おつりをまとめたレシートを作る。"
 difficulty: 1
 ---
 
-# 001: レジは明細を覚えている
+# 001: 残業
 
 [ヒント](../hints/001-checkout-total.md) / [解答](../solutions/001-checkout-total.md)
 

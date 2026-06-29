@@ -1,10 +1,10 @@
 ---
-title: "003: 読書ログは期限を覚えている"
+title: "003: あの日の貸出カード"
 description: "本の一覧から状態別のタイトル、冊数、期限切れの本をまとめたレポートを作る。"
 difficulty: 1
 ---
 
-# 003: 読書ログは期限を覚えている
+# 003: あの日の貸出カード
 
 [ヒント](../hints/003-group-books-by-status.md) / [解答](../solutions/003-group-books-by-status.md)
 

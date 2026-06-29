@@ -1,10 +1,10 @@
 ---
-title: "001: 「レジは明細を覚えている」のヒント"
+title: "001: 「残業」のヒント"
 description: "買い物かごを集計し、レシート辞書を組み立てる。"
 difficulty: 1
 ---
 
-# 001: 「レジは明細を覚えている」のヒント
+# 001: 「残業」のヒント
 
 [問題](../problems/001-checkout-total.md) / [解答](../solutions/001-checkout-total.md)
 

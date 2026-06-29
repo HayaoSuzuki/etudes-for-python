@@ -1,10 +1,10 @@
 ---
-title: "004: 「売上レポートの入口を作る」の解答"
+title: "004: 「月初月締」の解答"
 description: "ArgumentParserに引数仕様と検証関数を登録し、Namespaceを辞書へ変換する。"
 difficulty: 1
 ---
 
-# 004: 「売上レポートの入口を作る」の解答
+# 004: 「月初月締」の解答
 
 [問題](../problems/004-argparse-flags.md) / [ヒント](../hints/004-argparse-flags.md)
 

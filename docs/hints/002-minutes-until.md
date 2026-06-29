@@ -1,10 +1,10 @@
 ---
-title: "002: 「予定表のすき間を数える」のヒント"
+title: "002: 「先立つもの」のヒント"
 description: "時刻を分に直し、予定を並べ替えて空き区間を作る。"
 difficulty: 1
 ---
 
-# 002: 「予定表のすき間を数える」のヒント
+# 002: 「先立つもの」のヒント
 
 [問題](../problems/002-minutes-until.md) / [解答](../solutions/002-minutes-until.md)
 

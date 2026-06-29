@@ -1,10 +1,10 @@
 ---
-title: "003: 「読書ログは期限を覚えている」の解答"
+title: "003: 「あの日の貸出カード」の解答"
 description: "辞書で状態別に集計し、期限切れ候補をソートしてタイトルを取り出す。"
 difficulty: 1
 ---
 
-# 003: 「読書ログは期限を覚えている」の解答
+# 003: 「あの日の貸出カード」の解答
 
 [問題](../problems/003-group-books-by-status.md) / [ヒント](../hints/003-group-books-by-status.md)
 

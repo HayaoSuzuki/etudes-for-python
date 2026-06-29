@@ -1,10 +1,10 @@
 ---
-title: "005: 「設定はJSONからレポートを動かす」のヒント"
+title: "005: 「JSONは誰の息子」のヒント"
 description: "JSONを辞書として読み、既定値と型検査を段階的に適用する。"
 difficulty: 2
 ---
 
-# 005: 「設定はJSONからレポートを動かす」のヒント
+# 005: 「JSONは誰の息子」のヒント
 
 [問題](../problems/005-json-settings-loader.md) / [解答](../solutions/005-json-settings-loader.md)
 

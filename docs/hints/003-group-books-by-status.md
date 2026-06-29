@@ -1,10 +1,10 @@
 ---
-title: "003: 「読書ログは期限を覚えている」のヒント"
+title: "003: 「あの日の貸出カード」のヒント"
 description: "状態別集計と期限切れ判定を同時に行う。"
 difficulty: 1
 ---
 
-# 003: 「読書ログは期限を覚えている」のヒント
+# 003: 「あの日の貸出カード」のヒント
 
 [問題](../problems/003-group-books-by-status.md) / [解答](../solutions/003-group-books-by-status.md)
 

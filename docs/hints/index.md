@@ -6,12 +6,12 @@
 
 難易度は1〜3個の☆で表し、☆が多いほど難しくなります。
 
-- [001: レジは明細を覚えている](001-checkout-total.md) - ☆
-- [002: 予定表のすき間を数える](002-minutes-until.md) - ☆
-- [003: 読書ログは期限を覚えている](003-group-books-by-status.md) - ☆
-- [004: 売上レポートの入口を作る](004-argparse-flags.md) - ☆
-- [005: 設定はJSONからレポートを動かす](005-json-settings-loader.md) - ☆☆
-- [006: ログから失敗の傾向を読む](006-pathlib-log-finder.md) - ☆☆
+- [001: 残業](001-checkout-total.md) - ☆
+- [002: 先立つもの](002-minutes-until.md) - ☆
+- [003: あの日の貸出カード](003-group-books-by-status.md) - ☆
+- [004: 月初月締](004-argparse-flags.md) - ☆
+- [005: JSONは誰の息子](005-json-settings-loader.md) - ☆☆
+- [006: ポストモーテム](006-pathlib-log-finder.md) - ☆☆
 - [007: G.C.D](007-euclidean-algorithm.md) - ☆
 - [008: 夜の金網をくぐり抜け](008-sieve-of-eratosthenes.md) - ☆
 - [009: 小さな鍵、大きな秘密](009-rsa-cipher.md) - ☆☆

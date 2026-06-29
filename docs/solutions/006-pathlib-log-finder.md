@@ -1,10 +1,10 @@
 ---
-title: "006: 「ログから失敗の傾向を読む」の解答"
+title: "006: 「ポストモーテム」の解答"
 description: "Path.rglob、正規表現、Counterを組み合わせてログの要約を作る。"
 difficulty: 2
 ---
 
-# 006: 「ログから失敗の傾向を読む」の解答
+# 006: 「ポストモーテム」の解答
 
 [問題](../problems/006-pathlib-log-finder.md) / [ヒント](../hints/006-pathlib-log-finder.md)
 

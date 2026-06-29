@@ -1,10 +1,10 @@
 ---
-title: "001: 「レジは明細を覚えている」の解答"
+title: "001: 「残業」の解答"
 description: "商品コードごとの数量を集計し、明細と合計を順に作る。"
 difficulty: 1
 ---
 
-# 001: 「レジは明細を覚えている」の解答
+# 001: 「残業」の解答
 
 [問題](../problems/001-checkout-total.md) / [ヒント](../hints/001-checkout-total.md)
 
