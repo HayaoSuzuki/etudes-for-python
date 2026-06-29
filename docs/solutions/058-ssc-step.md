@@ -1,6 +1,6 @@
 ---
 title: "058: 「Accumulatorは一つだけ」の解答"
-description: "PC、Accumulator、Memoryを持つSSCを1命令だけ進める。"
+description: "PC、Accumulator、メモリを持つSSCを1命令だけ進める。"
 difficulty: 4
 ---
 

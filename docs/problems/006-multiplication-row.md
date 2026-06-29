@@ -1,6 +1,6 @@
 ---
 title: "006: 九つの積の物語"
-description: "range()とリストを使って、九九の一行を作る。"
+description: "九九のうち、ある段の一行を作る。"
 difficulty: 1
 ---
 

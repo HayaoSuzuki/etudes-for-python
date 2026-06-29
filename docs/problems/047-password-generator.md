@@ -1,6 +1,6 @@
 ---
 title: "047: 世界の合言葉は森"
-description: "secretsで候補を作り、正規表現で条件を満たすまで生成する。"
+description: "指定した長さで条件を満たすパスワードを生成する。"
 difficulty: 4
 ---
 

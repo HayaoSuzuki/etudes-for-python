@@ -1,6 +1,6 @@
 ---
 title: "004: AEIOUだけが知っている"
-description: "文字列を1文字ずつ調べ、英語の母音の個数を数える。"
+description: "英語の母音の個数を数える。"
 difficulty: 1
 ---
 

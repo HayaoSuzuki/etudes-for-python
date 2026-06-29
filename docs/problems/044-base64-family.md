@@ -1,6 +1,6 @@
 ---
 title: "044: 64文字の手紙"
-description: "3バイトを4文字に分けて、Base64系のエンコードとデコードを実装する。"
+description: "Base64系のエンコードとデコードを実装する。"
 difficulty: 5
 ---
 
