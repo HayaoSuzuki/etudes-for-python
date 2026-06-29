@@ -31,3 +31,13 @@
 - [023: 石の上にもニム](023-nim-winning-move.md) - ☆☆☆☆
 - [024: 1+1=?](024-one-plus-one.md) - ☆☆☆☆
 - [025: ブールの箱庭](025-boolean-algebra.md) - ☆☆☆☆☆
+- [026: 釣りはいらねえ、とは言えなくて](026-change-due.md) - ☆
+- [027: 空白を脱いだ名前](027-trimmed-greeting.md) - ☆
+- [028: AEIOUだけが知っている](028-count-vowels.md) - ☆
+- [029: 足して割れば、だいたい人生](029-score-summary.md) - ☆
+- [030: リストの両端に王がいる](030-min-max.md) - ☆☆
+- [031: 九つの積の物語](031-multiplication-row.md) - ☆
+- [032: 二で割り切れる者たち](032-even-numbers.md) - ☆☆
+- [033: ことばたちの出席簿](033-word-count.md) - ☆☆
+- [034: カンマの向こうに点がある](034-comma-separated-scores.md) - ☆☆
+- [035: 42か、それ以外か](035-int-or-none.md) - ☆☆
