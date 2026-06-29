@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/014-reverse-polish-notation.md) / [ヒント](../hints/014-reverse-polish-notation.md)
 
 **難易度:** ☆
+
 ## 方針
 
 式を空白で分割し、左から順に処理します。

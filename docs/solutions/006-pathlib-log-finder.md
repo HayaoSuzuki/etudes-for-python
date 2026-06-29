@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/006-pathlib-log-finder.md) / [ヒント](../hints/006-pathlib-log-finder.md)
 
 **難易度:** ☆☆
+
 ## 方針
 
 ログファイルは `Path.rglob` で集めます。

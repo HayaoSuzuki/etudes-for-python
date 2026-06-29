@@ -9,6 +9,7 @@ difficulty: 2
 [ヒント](../hints/018-nim-winning-move.md) / [解答](../solutions/018-nim-winning-move.md)
 
 **難易度:** ☆☆
+
 ## 問題
 
 **ニム**は、いくつかの山に置かれた石を2人で取り合うゲームです。

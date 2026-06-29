@@ -1,14 +1,15 @@
 ---
-title: "023: 左に寄せれば二倍になる"
+title: "025: 左に寄せれば二倍になる"
 description: "Shift命令を使って入力値を2倍し、SSCで出力する。"
 difficulty: 1
 ---
 
-# 023: 左に寄せれば二倍になる
+# 025: 左に寄せれば二倍になる
 
-[ヒント](../hints/023-ssc-shift-double.md) / [解答](../solutions/023-ssc-shift-double.md)
+[ヒント](../hints/025-ssc-shift-double.md) / [解答](../solutions/025-ssc-shift-double.md)
 
 **難易度:** ☆
+
 ## 問題
 
 SSCで、入力を1つ読み、その値を2倍して出力するプログラムを書いてください。

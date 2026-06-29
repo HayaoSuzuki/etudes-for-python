@@ -9,6 +9,7 @@ difficulty: 2
 [ヒント](../hints/009-rsa-cipher.md) / [解答](../solutions/009-rsa-cipher.md)
 
 **難易度:** ☆☆
+
 ## 問題
 
 関数 `make_rsa_keys(p, q, e)`、`rsa_encrypt(message, public_key)`、`rsa_decrypt(ciphertext, private_key)` を書いてください。

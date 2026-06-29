@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/009-rsa-cipher.md) / [解答](../solutions/009-rsa-cipher.md)
 
 **難易度:** ☆☆
+
 ??? tip "ヒント1"
 
     `p = 61` と `q = 53` は、前問の `primes_up_to(100)` で素数として確認できます。

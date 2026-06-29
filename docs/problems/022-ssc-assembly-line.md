@@ -9,6 +9,7 @@ difficulty: 1
 [ヒント](../hints/022-ssc-assembly-line.md) / [解答](../solutions/022-ssc-assembly-line.md)
 
 **難易度:** ☆
+
 ## 問題
 
 関数 `assemble_line(line)` と `disassemble_instruction(instruction)` を書いてください。

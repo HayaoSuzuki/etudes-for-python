@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/010-tetranacci.md) / [解答](../solutions/010-tetranacci.md)
 
 **難易度:** ☆
+
 ??? tip "ヒント1"
 
     再帰式は定義としては自然ですが、そのまま関数呼び出しにすると同じ値を何度も計算します。

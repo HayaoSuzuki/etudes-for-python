@@ -1,14 +1,15 @@
 ---
-title: "025: 「Jump 0で眠る機械」のヒント"
+title: "024: 「Jump 0で眠る機械」のヒント"
 description: "SSCプログラムを停止命令まで実行し、出力を返す。"
 difficulty: 2
 ---
 
-# 025: 「Jump 0で眠る機械」のヒント
+# 024: 「Jump 0で眠る機械」のヒント
 
-[問題](../problems/025-ssc-run.md) / [解答](../solutions/025-ssc-run.md)
+[問題](../problems/024-ssc-run.md) / [解答](../solutions/024-ssc-run.md)
 
 **難易度:** ☆☆
+
 ??? tip "ヒント1"
 
     まず `make_machine(program, inputs)` で初期状態を作ります。

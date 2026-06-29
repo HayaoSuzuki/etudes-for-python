@@ -9,6 +9,7 @@ difficulty: 2
 [ヒント](../hints/019-one-plus-one.md) / [解答](../solutions/019-one-plus-one.md)
 
 **難易度:** ☆☆
+
 ## 問題
 
 **二元体** \(F_2\) を表すクラス `F2` を書いてください。

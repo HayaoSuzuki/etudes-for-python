@@ -9,6 +9,7 @@ difficulty: 3
 [問題](../problems/028-ssc-maximum-program.md) / [解答](../solutions/028-ssc-maximum-program.md)
 
 **難易度:** ☆☆☆
+
 ??? tip "ヒント1"
 
     `Sub b` のあと、Accumulatorが正なら `a > b` です。

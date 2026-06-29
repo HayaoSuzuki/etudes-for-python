@@ -1,14 +1,15 @@
 ---
-title: "023: 「左に寄せれば二倍になる」のヒント"
+title: "025: 「左に寄せれば二倍になる」のヒント"
 description: "Shift命令を使って入力値を2倍し、SSCで出力する。"
 difficulty: 1
 ---
 
-# 023: 「左に寄せれば二倍になる」のヒント
+# 025: 「左に寄せれば二倍になる」のヒント
 
-[問題](../problems/023-ssc-shift-double.md) / [解答](../solutions/023-ssc-shift-double.md)
+[問題](../problems/025-ssc-shift-double.md) / [解答](../solutions/025-ssc-shift-double.md)
 
 **難易度:** ☆
+
 ??? tip "ヒント1"
 
     `Read` は入力を直接Accumulatorへ入れる命令ではありません。指定番地へ保存します。

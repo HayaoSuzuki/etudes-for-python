@@ -9,6 +9,7 @@ difficulty: 3
 [ヒント](../hints/020-boolean-algebra.md) / [解答](../solutions/020-boolean-algebra.md)
 
 **難易度:** ☆☆☆
+
 ## 問題
 
 **ブール代数**を、有限集合の冪集合として実装してください。

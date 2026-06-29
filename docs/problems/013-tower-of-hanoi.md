@@ -9,6 +9,7 @@ difficulty: 1
 [ヒント](../hints/013-tower-of-hanoi.md) / [解答](../solutions/013-tower-of-hanoi.md)
 
 **難易度:** ☆
+
 ## 問題
 
 標準入力から整数 `n` を読み込み、ハノイの塔の解法を出力するプログラムを書いてください。

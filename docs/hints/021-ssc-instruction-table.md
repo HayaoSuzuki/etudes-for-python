@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/021-ssc-instruction-table.md) / [解答](../solutions/021-ssc-instruction-table.md)
 
 **難易度:** ☆
+
 ??? tip "ヒント1"
 
     上位3ビットを取り出すには、右に5ビットシフトします。

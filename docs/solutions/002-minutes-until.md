@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/002-minutes-until.md) / [ヒント](../hints/002-minutes-until.md)
 
 **難易度:** ☆
+
 ## 方針
 
 時刻文字列を分数に変換すると、予定は数直線上の区間として扱えます。

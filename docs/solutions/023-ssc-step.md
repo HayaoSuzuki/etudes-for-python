@@ -1,14 +1,15 @@
 ---
-title: "024: 「Accumulatorは一つだけ」の解答"
+title: "023: 「Accumulatorは一つだけ」の解答"
 description: "PC、Accumulator、メモリを持つSSCを1命令だけ進める。"
 difficulty: 2
 ---
 
-# 024: 「Accumulatorは一つだけ」の解答
+# 023: 「Accumulatorは一つだけ」の解答
 
-[問題](../problems/024-ssc-step.md) / [ヒント](../hints/024-ssc-step.md)
+[問題](../problems/023-ssc-step.md) / [ヒント](../hints/023-ssc-step.md)
 
 **難易度:** ☆☆
+
 ## 方針
 
 まず、現在のPCが指す命令を読み、命令名とoperandに分けます。

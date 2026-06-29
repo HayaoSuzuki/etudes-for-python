@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/015-infix-to-rpn.md) / [解答](../solutions/015-infix-to-rpn.md)
 
 **難易度:** ☆☆
+
 ??? tip "ヒント1"
 
     出力用のリストと、演算子を一時的に置くスタックを用意します。

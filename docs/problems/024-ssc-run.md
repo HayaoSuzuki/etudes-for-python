@@ -1,14 +1,15 @@
 ---
-title: "025: Jump 0で眠る機械"
+title: "024: Jump 0で眠る機械"
 description: "SSCプログラムを停止命令まで実行し、出力を返す。"
 difficulty: 2
 ---
 
-# 025: Jump 0で眠る機械
+# 024: Jump 0で眠る機械
 
-[ヒント](../hints/025-ssc-run.md) / [解答](../solutions/025-ssc-run.md)
+[ヒント](../hints/024-ssc-run.md) / [解答](../solutions/024-ssc-run.md)
 
 **難易度:** ☆☆
+
 ## 問題
 
 関数 `run(program, inputs=None, max_steps=1000)` を書いてください。

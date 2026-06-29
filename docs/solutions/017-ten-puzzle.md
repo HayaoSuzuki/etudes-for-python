@@ -9,6 +9,7 @@ difficulty: 3
 [問題](../problems/017-ten-puzzle.md) / [ヒント](../hints/017-ten-puzzle.md)
 
 **難易度:** ☆☆☆
+
 ## 方針
 
 4個の数字と3個の演算子からなる逆ポーランド記法の式を全探索します。

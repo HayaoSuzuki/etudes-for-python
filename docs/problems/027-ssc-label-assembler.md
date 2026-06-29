@@ -9,6 +9,7 @@ difficulty: 3
 [ヒント](../hints/027-ssc-label-assembler.md) / [解答](../solutions/027-ssc-label-assembler.md)
 
 **難易度:** ☆☆☆
+
 ## 問題
 
 ラベル付きのSSCアセンブラ `assemble_program(lines)` を書いてください。

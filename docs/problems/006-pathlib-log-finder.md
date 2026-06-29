@@ -9,6 +9,7 @@ difficulty: 2
 [ヒント](../hints/006-pathlib-log-finder.md) / [解答](../solutions/006-pathlib-log-finder.md)
 
 **難易度:** ☆☆
+
 ## 問題
 
 関数 `log_error_summary(root)` を書いてください。

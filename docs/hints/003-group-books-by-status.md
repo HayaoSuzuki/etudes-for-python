@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/003-group-books-by-status.md) / [解答](../solutions/003-group-books-by-status.md)
 
 **難易度:** ☆
+
 ??? tip "ヒント1"
 
     状態ごとのタイトル一覧は、辞書の値としてリストを持つと表せます。

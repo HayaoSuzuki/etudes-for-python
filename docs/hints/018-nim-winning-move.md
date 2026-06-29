@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/018-nim-winning-move.md) / [解答](../solutions/018-nim-winning-move.md)
 
 **難易度:** ☆☆
+
 ??? tip "ヒント1"
 
     盤面全体の良し悪しは、各山を個別に見るだけでは決まりません。

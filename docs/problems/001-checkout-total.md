@@ -9,6 +9,7 @@ difficulty: 1
 [ヒント](../hints/001-checkout-total.md) / [解答](../solutions/001-checkout-total.md)
 
 **難易度:** ☆
+
 ## 問題
 
 関数 `checkout_receipt(catalog, cart, tax_rate, paid)` を書いてください。

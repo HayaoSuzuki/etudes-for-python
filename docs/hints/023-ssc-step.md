@@ -1,14 +1,15 @@
 ---
-title: "024: 「Accumulatorは一つだけ」のヒント"
+title: "023: 「Accumulatorは一つだけ」のヒント"
 description: "PC、Accumulator、Memoryを持つSSCを1命令だけ進める。"
 difficulty: 2
 ---
 
-# 024: 「Accumulatorは一つだけ」のヒント
+# 023: 「Accumulatorは一つだけ」のヒント
 
-[問題](../problems/024-ssc-step.md) / [解答](../solutions/024-ssc-step.md)
+[問題](../problems/023-ssc-step.md) / [解答](../solutions/023-ssc-step.md)
 
 **難易度:** ☆☆
+
 ??? tip "ヒント1"
 
     現在の命令は `machine["memory"][machine["pc"]]` から読みます。

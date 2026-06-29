@@ -9,6 +9,7 @@ difficulty: 1
 [ヒント](../hints/002-minutes-until.md) / [解答](../solutions/002-minutes-until.md)
 
 **難易度:** ☆
+
 ## 問題
 
 関数 `free_slots(events, day_start, day_end)` を書いてください。

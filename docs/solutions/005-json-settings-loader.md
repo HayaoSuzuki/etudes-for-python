@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/005-json-settings-loader.md) / [ヒント](../hints/005-json-settings-loader.md)
 
 **難易度:** ☆☆
+
 ## 方針
 
 JSON文字列をPythonの値へ変換したあと、辞書であることを確認します。

@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/012-square-triangular-number.md) / [解答](../solutions/012-square-triangular-number.md)
 
 **難易度:** ☆☆
+
 ??? tip "ヒント1"
 
     10個目の平方三角数はかなり大きくなります。

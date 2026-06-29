@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/008-sieve-of-eratosthenes.md) / [解答](../solutions/008-sieve-of-eratosthenes.md)
 
 **難易度:** ☆
+
 ??? tip "ヒント1"
 
     0から `n` までの各整数について、素数候補かどうかを表すリストを作ります。

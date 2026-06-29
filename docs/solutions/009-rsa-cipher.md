@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/009-rsa-cipher.md) / [ヒント](../hints/009-rsa-cipher.md)
 
 **難易度:** ☆☆
+
 ## 方針
 
 RSA暗号では、公開鍵 `(n, e)` と秘密鍵 `(n, d)` を使います。

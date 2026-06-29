@@ -9,6 +9,7 @@ difficulty: 2
 [ヒント](../hints/011-ackermann-function.md) / [解答](../solutions/011-ackermann-function.md)
 
 **難易度:** ☆☆
+
 ## 問題
 
 **アッカーマン関数** `A(m, n)` は、非負整数 `m` と `n` に対して次のように定義されます。

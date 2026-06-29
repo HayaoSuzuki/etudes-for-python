@@ -9,6 +9,7 @@ difficulty: 3
 [ヒント](../hints/028-ssc-maximum-program.md) / [解答](../solutions/028-ssc-maximum-program.md)
 
 **難易度:** ☆☆☆
+
 ## 問題
 
 SSCアセンブリで、2つの入力値の最大値を出力するプログラムを書いてください。

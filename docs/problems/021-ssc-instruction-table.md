@@ -9,6 +9,7 @@ difficulty: 1
 [ヒント](../hints/021-ssc-instruction-table.md) / [解答](../solutions/021-ssc-instruction-table.md)
 
 **難易度:** ☆
+
 ## 問題
 
 SSCの命令を扱うために、命令表と変換関数を書いてください。

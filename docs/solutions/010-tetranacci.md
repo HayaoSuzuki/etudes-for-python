@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/010-tetranacci.md) / [ヒント](../hints/010-tetranacci.md)
 
 **難易度:** ☆
+
 ## 方針
 
 素朴な再帰関数では、同じ `T(k)` を何度も計算します。

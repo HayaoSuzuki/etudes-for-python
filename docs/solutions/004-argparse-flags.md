@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/004-argparse-flags.md) / [ヒント](../hints/004-argparse-flags.md)
 
 **難易度:** ☆
+
 ## 方針
 
 `ArgumentParser` に、位置引数、必須オプション、選択式オプション、真偽フラグを登録します。

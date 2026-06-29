@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/002-minutes-until.md) / [解答](../solutions/002-minutes-until.md)
 
 **難易度:** ☆
+
 ??? tip "ヒント1"
 
     `"09:30"` のままでは差を計算しにくいので、0時からの分数に変換します。

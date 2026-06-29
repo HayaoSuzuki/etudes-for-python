@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/006-pathlib-log-finder.md) / [解答](../solutions/006-pathlib-log-finder.md)
 
 **難易度:** ☆☆
+
 ??? tip "ヒント1"
 
     `Path(root).rglob("*.log")` で、下位ディレクトリを含めてログファイルを探せます。

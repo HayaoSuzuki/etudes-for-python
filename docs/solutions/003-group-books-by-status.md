@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/003-group-books-by-status.md) / [ヒント](../hints/003-group-books-by-status.md)
 
 **難易度:** ☆
+
 ## 方針
 
 1冊ずつ見ながら、状態別のタイトル一覧と冊数を更新します。

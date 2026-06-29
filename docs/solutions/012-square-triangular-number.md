@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/012-square-triangular-number.md) / [ヒント](../hints/012-square-triangular-number.md)
 
 **難易度:** ☆☆
+
 ## 方針
 
 すべての正の整数を調べる必要はありません。

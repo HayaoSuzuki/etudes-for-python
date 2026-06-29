@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/001-checkout-total.md) / [解答](../solutions/001-checkout-total.md)
 
 **難易度:** ☆
+
 ??? tip "ヒント1"
 
     `cart` を1行ずつ処理しながら、商品コードごとの数量を辞書に足していきます。

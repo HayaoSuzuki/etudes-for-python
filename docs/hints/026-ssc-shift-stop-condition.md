@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/026-ssc-shift-stop-condition.md) / [解答](../solutions/026-ssc-shift-stop-condition.md)
 
 **難易度:** ☆☆
+
 ??? tip "ヒント1"
 
     Python整数版では、単に `value << 1` を繰り返します。

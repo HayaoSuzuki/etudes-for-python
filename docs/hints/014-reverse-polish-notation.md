@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/014-reverse-polish-notation.md) / [解答](../solutions/014-reverse-polish-notation.md)
 
 **難易度:** ☆
+
 ??? tip "ヒント1"
 
     逆ポーランド記法は、左から順に読めます。

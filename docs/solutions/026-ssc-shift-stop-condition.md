@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/026-ssc-shift-stop-condition.md) / [ヒント](../hints/026-ssc-shift-stop-condition.md)
 
 **難易度:** ☆☆
+
 ## 方針
 
 Python整数版では、左シフトの結果をそのまま使います。

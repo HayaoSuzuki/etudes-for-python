@@ -1,14 +1,15 @@
 ---
-title: "024: Accumulatorは一つだけ"
+title: "023: Accumulatorは一つだけ"
 description: "PC、Accumulator、メモリを持つSSCを1命令だけ進める。"
 difficulty: 2
 ---
 
-# 024: Accumulatorは一つだけ
+# 023: Accumulatorは一つだけ
 
-[ヒント](../hints/024-ssc-step.md) / [解答](../solutions/024-ssc-step.md)
+[ヒント](../hints/023-ssc-step.md) / [解答](../solutions/023-ssc-step.md)
 
 **難易度:** ☆☆
+
 ## 問題
 
 SSCの状態を作る関数 `make_machine(program=None, inputs=None)` と、状態を1命令だけ進める関数 `step(machine)` を書いてください。

@@ -9,6 +9,7 @@ difficulty: 3
 [問題](../problems/028-ssc-maximum-program.md) / [ヒント](../hints/028-ssc-maximum-program.md)
 
 **難易度:** ☆☆☆
+
 ## 方針
 
 `a - b` が正なら、`a` が大きい値です。

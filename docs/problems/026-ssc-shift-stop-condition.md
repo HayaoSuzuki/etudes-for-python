@@ -9,6 +9,7 @@ difficulty: 2
 [ヒント](../hints/026-ssc-shift-stop-condition.md) / [解答](../solutions/026-ssc-shift-stop-condition.md)
 
 **難易度:** ☆☆
+
 ## 問題
 
 Shift命令で値を2倍し続けるプログラムを考えます。

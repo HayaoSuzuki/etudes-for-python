@@ -9,6 +9,7 @@ difficulty: 3
 [ヒント](../hints/016-komachi-calculation.md) / [解答](../solutions/016-komachi-calculation.md)
 
 **難易度:** ☆☆☆
+
 ## 問題
 
 関数 `komachi_solutions()` を書いてください。

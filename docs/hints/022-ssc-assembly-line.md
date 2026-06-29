@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/022-ssc-assembly-line.md) / [解答](../solutions/022-ssc-assembly-line.md)
 
 **難易度:** ☆
+
 ??? tip "ヒント1"
 
     まず、`;` より前だけを取り出してから `strip()` します。

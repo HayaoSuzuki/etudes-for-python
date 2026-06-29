@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/007-euclidean-algorithm.md) / [解答](../solutions/007-euclidean-algorithm.md)
 
 **難易度:** ☆
+
 ??? tip "ヒント1"
 
     Euclidの互除法では、`gcd(a, b)` と `gcd(b, a % b)` が同じ値になることを使います。

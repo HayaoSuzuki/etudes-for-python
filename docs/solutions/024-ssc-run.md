@@ -1,14 +1,15 @@
 ---
-title: "025: 「Jump 0で眠る機械」の解答"
+title: "024: 「Jump 0で眠る機械」の解答"
 description: "SSCプログラムを停止命令まで実行し、出力を返す。"
 difficulty: 2
 ---
 
-# 025: 「Jump 0で眠る機械」の解答
+# 024: 「Jump 0で眠る機械」の解答
 
-[問題](../problems/025-ssc-run.md) / [ヒント](../hints/025-ssc-run.md)
+[問題](../problems/024-ssc-run.md) / [ヒント](../hints/024-ssc-run.md)
 
 **難易度:** ☆☆
+
 ## 方針
 
 `make_machine` で状態を作り、停止するまで `step()` を呼びます。

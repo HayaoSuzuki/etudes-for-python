@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/019-one-plus-one.md) / [ヒント](../hints/019-one-plus-one.md)
 
 **難易度:** ☆☆
+
 ## 方針
 
 `F2` の値は、常に `0` または `1` です。

@@ -9,6 +9,7 @@ difficulty: 3
 [ヒント](../hints/017-ten-puzzle.md) / [解答](../solutions/017-ten-puzzle.md)
 
 **難易度:** ☆☆☆
+
 ## 問題
 
 関数 `unsolvable_ten_puzzle_combinations()` を書いてください。

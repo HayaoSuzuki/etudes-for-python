@@ -9,6 +9,7 @@ difficulty: 1
 [ヒント](../hints/004-argparse-flags.md) / [解答](../solutions/004-argparse-flags.md)
 
 **難易度:** ☆
+
 ## 問題
 
 関数 `parse_sales_args(args)` を書いてください。

@@ -9,6 +9,7 @@ difficulty: 1
 [ヒント](../hints/003-group-books-by-status.md) / [解答](../solutions/003-group-books-by-status.md)
 
 **難易度:** ☆
+
 ## 問題
 
 関数 `reading_report(books, today)` を書いてください。

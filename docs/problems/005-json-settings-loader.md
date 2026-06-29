@@ -9,6 +9,7 @@ difficulty: 2
 [ヒント](../hints/005-json-settings-loader.md) / [解答](../solutions/005-json-settings-loader.md)
 
 **難易度:** ☆☆
+
 ## 問題
 
 関数 `load_report_settings(text)` を書いてください。

@@ -9,6 +9,7 @@ difficulty: 3
 [問題](../problems/027-ssc-label-assembler.md) / [解答](../solutions/027-ssc-label-assembler.md)
 
 **難易度:** ☆☆☆
+
 ??? tip "ヒント1"
 
     1回目の走査では、命令やDataを生成せず、ラベル名と番地だけを記録します。

@@ -1,14 +1,15 @@
 ---
-title: "023: 「左に寄せれば二倍になる」の解答"
+title: "025: 「左に寄せれば二倍になる」の解答"
 description: "Shift命令を使って入力値を2倍し、SSCで出力する。"
 difficulty: 1
 ---
 
-# 023: 「左に寄せれば二倍になる」の解答
+# 025: 「左に寄せれば二倍になる」の解答
 
-[問題](../problems/023-ssc-shift-double.md) / [ヒント](../hints/023-ssc-shift-double.md)
+[問題](../problems/025-ssc-shift-double.md) / [ヒント](../hints/025-ssc-shift-double.md)
 
 **難易度:** ☆
+
 ## 方針
 
 入力は `Read 31` で31番地に置きます。

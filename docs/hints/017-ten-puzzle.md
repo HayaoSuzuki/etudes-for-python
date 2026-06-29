@@ -9,6 +9,7 @@ difficulty: 3
 [問題](../problems/017-ten-puzzle.md) / [解答](../solutions/017-ten-puzzle.md)
 
 **難易度:** ☆☆☆
+
 ??? tip "ヒント1"
 
     0から9までの数字から重複を許して4個を選ぶ組み合わせは、`itertools.combinations_with_replacement(range(10), 4)` で列挙できます。

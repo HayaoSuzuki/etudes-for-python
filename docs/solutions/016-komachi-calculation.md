@@ -9,6 +9,7 @@ difficulty: 3
 [問題](../problems/016-komachi-calculation.md) / [ヒント](../hints/016-komachi-calculation.md)
 
 **難易度:** ☆☆☆
+
 ## 方針
 
 数字の間に入れるものは、8か所それぞれで5通りあります。

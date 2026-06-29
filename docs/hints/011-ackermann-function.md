@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/011-ackermann-function.md) / [解答](../solutions/011-ackermann-function.md)
 
 **難易度:** ☆☆
+
 ??? tip "ヒント1"
 
     一般の `A(m, n)` をそのまま再帰関数にすると、呼び出しが深くなります。

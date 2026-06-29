@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/001-checkout-total.md) / [ヒント](../hints/001-checkout-total.md)
 
 **難易度:** ☆
+
 ## 方針
 
 買い物かごをそのまま合計すると、同じ商品が複数行に分かれます。

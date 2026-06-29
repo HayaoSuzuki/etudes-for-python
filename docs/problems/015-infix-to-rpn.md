@@ -9,6 +9,7 @@ difficulty: 2
 [ヒント](../hints/015-infix-to-rpn.md) / [解答](../solutions/015-infix-to-rpn.md)
 
 **難易度:** ☆☆
+
 ## 問題
 
 関数 `infix_to_rpn(expression)` を書いてください。
@@ -47,7 +48,7 @@ difficulty: 2
 
 ## 確認
 
-次問のプログラムに渡せる形の文字列を返すことを確認してください。
+前問のプログラムに渡せる形の文字列を返すことを確認してください。
 
 ```python
 >>> infix_to_rpn("3 + 4 * 2 / ( 1 - 5 )")

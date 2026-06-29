@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/019-one-plus-one.md) / [解答](../solutions/019-one-plus-one.md)
 
 **難易度:** ☆☆
+
 ??? tip "ヒント1"
 
     `F2` の中身は、常に `0` または `1` にできます。

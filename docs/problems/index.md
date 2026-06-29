@@ -27,9 +27,9 @@
 - [020: ブールの箱庭](020-boolean-algebra.md) - ☆☆☆
 - [021: 命令表はコードでもある](021-ssc-instruction-table.md) - ☆
 - [022: ニーモニックの皮をかぶった数](022-ssc-assembly-line.md) - ☆
-- [023: 左に寄せれば二倍になる](023-ssc-shift-double.md) - ☆
-- [024: Accumulatorは一つだけ](024-ssc-step.md) - ☆☆
-- [025: Jump 0で眠る機械](025-ssc-run.md) - ☆☆
+- [023: Accumulatorは一つだけ](023-ssc-step.md) - ☆☆
+- [024: Jump 0で眠る機械](024-ssc-run.md) - ☆☆
+- [025: 左に寄せれば二倍になる](025-ssc-shift-double.md) - ☆
 - [026: 止まらない二倍の列](026-ssc-shift-stop-condition.md) - ☆☆
 - [027: ラベルは番地を忘れさせる](027-ssc-label-assembler.md) - ☆☆☆
 - [028: 最大値を探す小さな計算機](028-ssc-maximum-program.md) - ☆☆☆

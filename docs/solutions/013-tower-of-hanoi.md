@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/013-tower-of-hanoi.md) / [ヒント](../hints/013-tower-of-hanoi.md)
 
 **難易度:** ☆
+
 ## 方針
 
 `n` 枚の円盤を `start` から `goal` へ移す問題を考えます。

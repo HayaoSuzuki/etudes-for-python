@@ -9,6 +9,7 @@ difficulty: 3
 [問題](../problems/027-ssc-label-assembler.md) / [ヒント](../hints/027-ssc-label-assembler.md)
 
 **難易度:** ☆☆☆
+
 ## 方針
 
 ラベルは、後ろにある番地を前から参照できるようにする仕組みです。

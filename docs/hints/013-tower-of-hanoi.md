@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/013-tower-of-hanoi.md) / [解答](../solutions/013-tower-of-hanoi.md)
 
 **難易度:** ☆
+
 ??? tip "ヒント1"
 
     1枚だけなら、`A -> C` と出力すれば終わります。

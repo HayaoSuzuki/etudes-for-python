@@ -9,6 +9,7 @@ difficulty: 3
 [問題](../problems/016-komachi-calculation.md) / [解答](../solutions/016-komachi-calculation.md)
 
 **難易度:** ☆☆☆
+
 ??? tip "ヒント1"
 
     数字の間は8か所あります。

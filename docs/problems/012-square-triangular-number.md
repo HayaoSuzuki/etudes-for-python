@@ -9,6 +9,7 @@ difficulty: 2
 [ヒント](../hints/012-square-triangular-number.md) / [解答](../solutions/012-square-triangular-number.md)
 
 **難易度:** ☆☆
+
 ## 問題
 
 **平方数**とは、ある正の整数 `m` を使って `m * m` と表せる数です。

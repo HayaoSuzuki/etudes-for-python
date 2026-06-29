@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/005-json-settings-loader.md) / [解答](../solutions/005-json-settings-loader.md)
 
 **難易度:** ☆☆
+
 ??? tip "ヒント1"
 
     最初に `json.loads` の結果が辞書かどうかを確認します。

@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/008-sieve-of-eratosthenes.md) / [ヒント](../hints/008-sieve-of-eratosthenes.md)
 
 **難易度:** ☆
+
 ## 方針
 
 0から `n` までの整数について、素数候補かどうかをリストで持ちます。

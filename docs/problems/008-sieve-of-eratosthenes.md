@@ -9,6 +9,7 @@ difficulty: 1
 [ヒント](../hints/008-sieve-of-eratosthenes.md) / [解答](../solutions/008-sieve-of-eratosthenes.md)
 
 **難易度:** ☆
+
 ## 問題
 
 関数 `primes_up_to(n)` を書いてください。

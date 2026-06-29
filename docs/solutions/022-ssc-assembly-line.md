@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/022-ssc-assembly-line.md) / [ヒント](../hints/022-ssc-assembly-line.md)
 
 **難易度:** ☆
+
 ## 方針
 
 アセンブリ表記を、命令名とoperandに分けます。

@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/004-argparse-flags.md) / [解答](../solutions/004-argparse-flags.md)
 
 **難易度:** ☆
+
 ??? tip "ヒント1"
 
     `choices` を使うと、`--format` の値を `table` と `json` に制限できます。

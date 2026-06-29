@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/011-ackermann-function.md) / [ヒント](../hints/011-ackermann-function.md)
 
 **難易度:** ☆☆
+
 ## 方針
 
 定義をそのまま一般の再帰関数に写すと、`m = 3` でも大きな `n` では扱いにくくなります。

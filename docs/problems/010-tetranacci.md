@@ -9,6 +9,7 @@ difficulty: 1
 [ヒント](../hints/010-tetranacci.md) / [解答](../solutions/010-tetranacci.md)
 
 **難易度:** ☆
+
 ## 問題
 
 **テトラナッチ数列**は、直前4項の和で次の項を作る数列です。

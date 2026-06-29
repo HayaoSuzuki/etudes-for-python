@@ -9,6 +9,7 @@ difficulty: 1
 [ヒント](../hints/007-euclidean-algorithm.md) / [解答](../solutions/007-euclidean-algorithm.md)
 
 **難易度:** ☆
+
 ## 問題
 
 関数 `gcd(a, b)` を書いてください。

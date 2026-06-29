@@ -9,6 +9,7 @@ difficulty: 3
 [問題](../problems/020-boolean-algebra.md) / [解答](../solutions/020-boolean-algebra.md)
 
 **難易度:** ☆☆☆
+
 ??? tip "ヒント1"
 
     要素を変更できる `set` のまま返すと、あとから中身が変わってしまいます。

@@ -9,6 +9,7 @@ difficulty: 3
 [問題](../problems/020-boolean-algebra.md) / [ヒント](../hints/020-boolean-algebra.md)
 
 **難易度:** ☆☆☆
+
 ## 方針
 
 有限集合 `universe` の部分集合を、ブール代数の要素として扱います。

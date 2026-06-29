@@ -9,6 +9,7 @@ difficulty: 1
 [問題](../problems/021-ssc-instruction-table.md) / [ヒント](../hints/021-ssc-instruction-table.md)
 
 **難易度:** ☆
+
 ## 方針
 
 命令表を1つ定義し、そこから逆引き用の辞書を作ります。

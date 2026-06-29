@@ -9,6 +9,7 @@ difficulty: 2
 [問題](../problems/018-nim-winning-move.md) / [ヒント](../hints/018-nim-winning-move.md)
 
 **難易度:** ☆☆
+
 ## 方針
 
 各山の石数をすべて排他的論理和で畳み込みます。
