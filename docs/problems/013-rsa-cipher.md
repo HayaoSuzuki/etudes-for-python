@@ -12,14 +12,10 @@ description: "小さい素数を使ってRSA暗号の鍵生成と暗号化を実
 関数 `make_rsa_keys(p, q, e)`、`rsa_encrypt(message, public_key)`、`rsa_decrypt(ciphertext, private_key)` を書いてください。
 この問題では、小さい素数を使ってRSA暗号の鍵生成、暗号化、復号を扱います。
 
-2つの素数 `p` と `q` から、`n = p * q` を作ります。
-`phi = (p - 1) * (q - 1)` とし、`(e * d) % phi == 1` を満たす `d` を求めます。
+`make_rsa_keys` は、2つの素数 `p` と `q` と公開指数 `e` から、公開鍵と秘密鍵を作って返します。
+`rsa_encrypt` は公開鍵で `message` を暗号化し、`rsa_decrypt` は秘密鍵で `ciphertext` を復号します。
+公開鍵は `(n, e)`、秘密鍵は `(n, d)` の形とします。
 
-公開鍵は `(n, e)`、秘密鍵は `(n, d)` とします。
-暗号化は `pow(message, e, n)`、復号は `pow(ciphertext, d, n)` で行います。
-
-`p` と `q` が素数であることは、前問の `primes_up_to` で確認できます。
-`e` と `phi` が互いに素かどうかは、`gcd` で判定してください。
 この問題の数は学習用です。
 実用の暗号には使えません。
 
