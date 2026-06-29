@@ -35,3 +35,4 @@ difficulty: 1
 ## 発展
 
 `paid` が `total` より小さい場合に `ValueError` を送出する版も書いてください。
+

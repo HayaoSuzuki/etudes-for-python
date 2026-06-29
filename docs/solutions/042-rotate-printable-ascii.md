@@ -60,3 +60,4 @@ assert rotate_printable_ascii(plaintext, 47) == ciphertext
 
 また、負の `shift` を特別扱いする必要はありません。
 Pythonの剰余演算を使うと、左回転も同じ式で扱えます。
+

@@ -38,3 +38,4 @@ assert int_or_none("hello") is None
 
 カンマ区切りの文字列に応用する場合は、項目ごとに `int_or_none()` を呼び出します。
 戻り値が `None` ではないときだけ、結果のリストに追加します。
+

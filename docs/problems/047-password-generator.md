@@ -42,3 +42,4 @@ True
 >>> is_valid_generated_password(password)
 True
 ```
+

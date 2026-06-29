@@ -49,3 +49,4 @@ def min_max_checked(numbers):
         raise ValueError("numbers must not be empty")
     return min_max(numbers)
 ```
+

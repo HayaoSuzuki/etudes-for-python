@@ -21,3 +21,4 @@ difficulty: 3
 ??? tip "ヒント3"
 
     `key=lambda record: (-record[1], record[0])` のように、並べ替え用の値を作れます。
+

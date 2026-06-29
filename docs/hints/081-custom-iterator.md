@@ -29,3 +29,4 @@ difficulty: 4
 
     `Countdown.__iter__()` は、毎回新しい `CountdownIterator` を作って返します。
     `CountdownIterator.__next__()` は、現在の値を返してから1つ減らし、0より小さくなったら `StopIteration` を送出します。
+

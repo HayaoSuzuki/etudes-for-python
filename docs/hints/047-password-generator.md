@@ -29,3 +29,4 @@ difficulty: 4
 
     `length < 8` は、候補を作る前に `ValueError` にします。
     生成された文字列の長さは、`len(password) == length` で確認できます。
+

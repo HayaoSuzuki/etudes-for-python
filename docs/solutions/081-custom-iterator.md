@@ -75,3 +75,4 @@ else:
 ## 参考
 
 - [イテレータ型](https://docs.python.org/ja/3.14/library/stdtypes.html#iterator-types)
+

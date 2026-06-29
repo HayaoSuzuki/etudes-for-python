@@ -39,3 +39,4 @@ assert word_count(["Python", "python"]) == {"Python": 1, "python": 1}
 ## 発展
 
 大文字と小文字を区別しない場合は、数える前に `word.lower()` を使ってキーをそろえます。
+

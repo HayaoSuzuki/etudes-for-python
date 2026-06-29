@@ -21,3 +21,4 @@ difficulty: 2
 ??? tip "ヒント3"
 
     整数の切り捨て除算は `//` です。税額は `subtotal * tax_rate // 100` で求められます。
+

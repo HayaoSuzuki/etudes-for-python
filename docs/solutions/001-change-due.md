@@ -40,3 +40,4 @@ def change_due_checked(total, paid):
         raise ValueError("paid must be greater than or equal to total")
     return paid - total
 ```
+

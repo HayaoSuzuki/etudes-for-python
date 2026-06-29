@@ -21,3 +21,4 @@ difficulty: 2
 ??? tip "ヒント3"
 
     `if number % 2 == 0:` の中で `result.append(number)` を呼び出します。
+
