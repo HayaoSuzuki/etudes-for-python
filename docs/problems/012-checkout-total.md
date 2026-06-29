@@ -1,42 +1,58 @@
 ---
-title: "012: 税込み価格は二度ベルを鳴らす"
-description: "商品価格と個数から小計、税額、合計を整数で求める。"
-difficulty: 2
+title: "012: レジは明細を覚えている"
+description: "商品表と買い物かごから、明細、小計、税額、合計、おつりをまとめたレシートを作る。"
+difficulty: 3
 ---
 
-# 012: 税込み価格は二度ベルを鳴らす
+# 012: レジは明細を覚えている
 
 [ヒント](../hints/012-checkout-total.md) / [解答](../solutions/012-checkout-total.md)
 
-**難易度:** ☆☆
+**難易度:** ☆☆☆
 
 ## 問題
 
-関数 `checkout_total(items, tax_rate)` を書いてください。
-この関数は、商品価格と個数のリスト `items` と、税率 `tax_rate` を受け取り、`(小計, 税額, 合計)` のタプルを返します。
+関数 `checkout_receipt(catalog, cart, tax_rate, paid)` を書いてください。
+この関数は、商品表 `catalog`、買い物かご `cart`、税率 `tax_rate`、支払額 `paid` を受け取り、レシートを表す辞書を返します。
 
-`items` の各要素は `(price, quantity)` のタプルです。
-税率はパーセントを表す整数で、`tax_rate=10` は10%を意味します。
-税額に小数が出る場合は、小数点以下を切り捨ててください。
+`catalog` は商品コードをキー、税抜き単価を値にする辞書です。
+`cart` は `(code, quantity)` のタプルのリストです。
+同じ商品コードが複数回出てくることがあります。
+
+戻り値の辞書は、次のキーを持ちます。
+
+- `"lines"`：`(code, quantity, line_total)` のリスト
+- `"subtotal"`：税抜き小計
+- `"tax"`：税額
+- `"total"`：税込み合計
+- `"change"`：おつり
+
+`"lines"` では、同じ商品コードをまとめてください。
+商品の順番は、`cart` に初めて出てきた順にします。
 
 ## 制約
 
-- `price`、`quantity`、`tax_rate` は0以上の整数です。
-- `items` は空でもかまいません。
-- 税額は、小計全体に税率をかけて求めます。
+- 単価、個数、税率、支払額は0以上の整数です。
+- 税額は、小計全体に税率をかけ、小数点以下を切り捨てます。
+- `cart` に `catalog` にない商品コードが出た場合は `KeyError` を送出してください。
+- 支払額が税込み合計に足りない場合は `ValueError` を送出してください。
+- `cart` は空でもかまいません。
 
 ## 例
 
 ```python
->>> checkout_total([(120, 2), (80, 3)], 10)
-(480, 48, 528)
->>> checkout_total([(99, 1)], 10)
-(99, 9, 108)
->>> checkout_total([], 10)
-(0, 0, 0)
+>>> catalog = {"tea": 120, "cake": 300, "bag": 5}
+>>> cart = [("tea", 2), ("cake", 1), ("tea", 1)]
+>>> checkout_receipt(catalog, cart, 10, 1000)
+{'lines': [('tea', 3, 360), ('cake', 1, 300)], 'subtotal': 660, 'tax': 66, 'total': 726, 'change': 274}
+>>> checkout_receipt(catalog, [], 10, 0)
+{'lines': [], 'subtotal': 0, 'tax': 0, 'total': 0, 'change': 0}
+>>> checkout_receipt(catalog, [("tea", 1)], 10, 100)
+Traceback (most recent call last):
+...
+ValueError: paid amount is not enough
 ```
 
 ## 発展
 
-商品ごとに税額を切り捨てる場合と、小計全体で税額を切り捨てる場合で、結果が変わる例を探してください。
-
+数量が0の商品を明細から取り除く版を書いてください。

@@ -1,32 +1,31 @@
 ---
-title: "055: 「設定はJSONから来る」のヒント"
-description: "json.loadsで設定文字列を読み、必須キーと省略値を検査する。"
-difficulty: 3
+title: "055: 「設定はJSONからレポートを動かす」のヒント"
+description: "JSONを辞書として読み、既定値と型検査を段階的に適用する。"
+difficulty: 4
 ---
 
-# 055: 「設定はJSONから来る」のヒント
+# 055: 「設定はJSONからレポートを動かす」のヒント
 
 [問題](../problems/055-json-settings-loader.md) / [解答](../solutions/055-json-settings-loader.md)
 
-**難易度:** ☆☆☆
+**難易度:** ☆☆☆☆
 
 ??? tip "ヒント1"
 
-    `json.loads(text)` は、JSON文字列をPythonの値に変換します。
-    JSONオブジェクトは辞書になります。
+    最初に `json.loads` の結果が辞書かどうかを確認します。
+    リストや文字列を受け入れると、その後のキー検査が意味を持ちません。
 
 ??? tip "ヒント2"
 
-    まず、読み込んだ値が辞書かどうかを確認します。
-    リストや文字列が来た場合は、設定オブジェクトとして扱えません。
+    未知キーは、`set(data) - allowed_keys` で見つけられます。
+    エラーに出すキーを安定させたい場合は、`sorted` して先頭を使います。
 
 ??? tip "ヒント3"
 
-    省略できるキーは、`dict.get(key, default)` で初期値を補えます。
-    ただし、補ったあとで型や値の範囲を検査します。
+    `bool` は `int` の一種として扱われます。
+    `min_total` では `isinstance(value, int)` ではなく、`type(value) is int` で検査します。
 
 ??? tip "ヒント4"
 
-    `bool` は `int` のサブクラスです。
-    `isinstance(True, int)` は `True` になるため、`retries` では `type(value) is int` のような検査が必要です。
-
+    `aliases` は入れ子の辞書です。
+    外側だけでなく、キーと値を1つずつ見て、どちらも文字列かどうかを確認します。

@@ -1,10 +1,10 @@
 ---
-title: "053: 旗を立てれば設定が歩く"
-description: "argparseでコマンドライン引数を解析し、設定辞書に変換する。"
+title: "053: 売上レポートの入口を作る"
+description: "argparseで売上レポート用の引数を解析し、検証済みの設定辞書を作る。"
 difficulty: 3
 ---
 
-# 053: 旗を立てれば設定が歩く
+# 053: 売上レポートの入口を作る
 
 [ヒント](../hints/053-argparse-flags.md) / [解答](../solutions/053-argparse-flags.md)
 
@@ -12,35 +12,40 @@ difficulty: 3
 
 ## 問題
 
-関数 `parse_resize_args(args)` を書いてください。
-この関数は、画像リサイズ用のコマンドライン引数を解析し、設定辞書を返します。
+関数 `parse_sales_args(args)` を書いてください。
+この関数は、売上レポートを作るコマンドライン引数を解析し、設定辞書を返します。
 
 扱う引数は次のとおりです。
 
-- 位置引数 `input`
-- 必須オプション `--width`
-- 必須オプション `--height`
-- 任意オプション `--format`。値は `png` または `jpg`。省略時は `png`
-- 任意フラグ `--keep-aspect`。指定されたときだけ `True`
+- 位置引数 `csv_path`
+- 必須オプション `--month`。値は `YYYY-MM` 形式
+- 任意オプション `--format`。値は `table` または `json`。省略時は `table`
+- 任意オプション `--tax-rate`。0以上の整数。省略時は `10`
+- 任意フラグ `--include-zero`。指定されたときだけ `True`
+
+戻り値は、キー `csv_path`、`month`、`format`、`tax_rate`、`include_zero` を持つ辞書にしてください。
 
 ## 制約
 
 - `argparse.ArgumentParser` を使ってください。
 - `args` は文字列のリストです。
-- `--width` と `--height` は整数として扱います。
-- 戻り値は、キー `input`、`width`、`height`、`format`、`keep_aspect` を持つ辞書です。
+- `--month` が `YYYY-MM` 形式でない場合は、`argparse` のエラーとして扱ってください。
+- `--tax-rate` が負の場合も、`argparse` のエラーとして扱ってください。
 - 不正な引数では `argparse` の通常どおり `SystemExit` が送出されてかまいません。
 
 ## 例
 
 ```python
->>> parse_resize_args(["photo.jpg", "--width", "800", "--height", "600"])
-{'input': 'photo.jpg', 'width': 800, 'height': 600, 'format': 'png', 'keep_aspect': False}
->>> parse_resize_args(["photo.jpg", "--width", "800", "--height", "600", "--format", "jpg", "--keep-aspect"])
-{'input': 'photo.jpg', 'width': 800, 'height': 600, 'format': 'jpg', 'keep_aspect': True}
+>>> parse_sales_args(["sales.csv", "--month", "2026-06"])
+{'csv_path': 'sales.csv', 'month': '2026-06', 'format': 'table', 'tax_rate': 10, 'include_zero': False}
+>>> parse_sales_args(["sales.csv", "--month", "2026-06", "--format", "json", "--tax-rate", "8", "--include-zero"])
+{'csv_path': 'sales.csv', 'month': '2026-06', 'format': 'json', 'tax_rate': 8, 'include_zero': True}
 ```
+
+## 発展
+
+`--sort total` と `--sort name` を追加し、レポートの並び順も引数で指定できるようにしてください。
 
 ## 参考
 
 - [Argparse チュートリアル](https://docs.python.org/ja/3.14/howto/argparse.html)
-

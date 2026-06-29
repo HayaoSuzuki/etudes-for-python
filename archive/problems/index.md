@@ -1,0 +1,90 @@
+# アーカイブされた問題
+
+現行の演習から退避した問題一覧です。
+番号とファイル名は退避前のものを保っています。
+
+難易度は1〜5個の☆で表し、☆が多いほど難しくなります。
+
+- [001: 釣りはいらねえ、とは言えなくて](001-change-due.md) - ☆
+- [002: 空白を脱いだ名前](002-trimmed-greeting.md) - ☆
+- [003: AEIOUだけが知っている](003-count-vowels.md) - ☆
+- [004: 足して割れば、だいたい人生](004-score-summary.md) - ☆
+- [005: 九つの積の物語](005-multiplication-row.md) - ☆
+- [006: 驚くべき関数](006-even-or-odd.md) - ☆
+- [007: Hello world 2nd stage](007-hello-world-2nd-stage.md) - ☆☆
+- [008: 二で割り切れる者たち](008-even-numbers.md) - ☆☆
+- [009: リストの両端に王がいる](009-min-max.md) - ☆☆
+- [010: 42か、それ以外か](010-int-or-none.md) - ☆☆
+- [011: カンマの向こうに点がある](011-comma-separated-scores.md) - ☆☆
+- [013: 七桁の住所不定](013-postal-code.md) - ☆☆
+- [014: 七五三](014-extended-fizzbuzz.md) - ☆☆
+- [015: 宇宙の鍵は3,6,9](015-alternative-fuzzbuzz.md) - ☆☆
+- [017: ことばたちの出席簿](017-word-count.md) - ☆☆
+- [018: スライスが回す輪](018-rotate-left.md) - ☆☆
+- [020: 名前順では勝てない表彰台](020-score-podium.md) - ☆☆☆
+- [021: 同点の列は昨日を覚えている](021-stable-score-sort.md) - ☆☆☆
+- [022: 点数の分布を読む](022-statistics-score-report.md) - ☆☆☆
+- [023: 並べ替えの鍵を取り出す](023-operator-sort-key.md) - ☆☆☆
+- [024: よく出る言葉から並べる](024-counter-top-words.md) - ☆☆☆
+- [025: 単語は文書番号を覚えている](025-defaultdict-inverted-index.md) - ☆☆☆
+- [026: 同じ値はまとめて走る](026-itertools-run-length.md) - ☆☆☆
+- [027: 一度だけ現れる声](027-first-unique-character.md) - ☆☆☆
+- [028: 括弧の門番は眠らない](028-balanced-parentheses.md) - ☆☆☆
+- [029: 昨日と同じリストではない](029-independent-board.md) - ☆☆☆
+- [030: 点数表に割り込む](030-bisect-score-board.md) - ☆☆☆
+- [031: 入れ子の状態は奥まで写す](031-deepcopy-nested-state.md) - ☆☆☆
+- [032: 在庫は夜に減っている](032-stock-operations.md) - ☆☆☆☆
+- [033: 窓は一歩ずつ流れていく](033-sliding-windows.md) - ☆☆☆☆
+- [034: 急ぎの仕事から出てくる](034-heapq-priority-tasks.md) - ☆☆☆☆
+- [035: メリー・ポピンズからの暗号文](035-rot47-cipher.md) - ☆☆
+- [036: URLはクエリを背負って走る](036-url-query-builder.md) - ☆☆
+- [037: 括弧に名前をつけた日](037-regex-named-date.md) - ☆☆☆
+- [038: 住所の外へ出る者を見つけろ](038-ipaddress-border.md) - ☆☆☆
+- [039: 同じ顔をした別の文字](039-unicode-canonical-key.md) - ☆☆☆
+- [040: 紅美鈴はよく眠る](040-password-validator.md) - ☆☆☆
+- [041: 私の戦闘力は53万](041-password-strength-indicator.md) - ☆☆☆
+- [042: ASCIIは二度回る](042-rotate-printable-ascii.md) - ☆☆☆
+- [043: 檸檬](043-vigenere-cipher.md) - ☆☆☆
+- [044: バイト列の指紋を取る](044-hashlib-file-digest.md) - ☆☆☆
+- [045: IDは同じ形にそろえる](045-uuid-record-id.md) - ☆☆☆
+- [046: コメントはそのままHTMLにしない](046-html-escape-comment.md) - ☆☆☆
+- [047: 世界の合言葉は森](047-password-generator.md) - ☆☆☆☆
+- [048: 署名は一定時間で比べる](048-hmac-signature-check.md) - ☆☆☆☆
+- [049: メールから件名を取り出す](049-email-header-parser.md) - ☆☆☆☆
+- [050: 64文字の手紙](050-base64-family.md) - ☆☆☆☆☆
+- [051: 例はそのまま試験になる](051-doctest-examples.md) - ☆☆☆
+- [052: 同じ形の試験を並べる](052-unittest-table-cases.md) - ☆☆☆
+- [054: printはもう夜勤しない](054-logging-night-shift.md) - ☆☆☆
+- [056: 売上はカンマで区切られる](056-csv-sales-summary.md) - ☆☆☆
+- [057: 小数の請求書は浮かせない](057-decimal-invoice-total.md) - ☆☆☆
+- [058: TOMLの中のプロジェクト名](058-tomllib-project-metadata.md) - ☆☆☆
+- [059: INIの旗を読む](059-configparser-feature-flags.md) - ☆☆☆
+- [061: 週末を数えない日付](061-business-days.md) - ☆☆☆☆
+- [062: 会議は時差をまたぐ](062-zoneinfo-meeting-time.md) - ☆☆☆☆
+- [063: 文字列たちをZIPに束ねる](063-zipfile-text-bundle.md) - ☆☆☆☆
+- [064: 一時作業場でファイルを選ぶ](064-tempfile-shutil-workdir.md) - ☆☆☆☆
+- [065: メモリの中だけの売上表](065-sqlite-memory-report.md) - ☆☆☆☆
+- [066: 外のコマンドの返事を読む](066-subprocess-result-parser.md) - ☆☆☆☆
+- [067: 非同期の結果を順に集める](067-asyncio-gather-results.md) - ☆☆☆☆
+- [068: 偽ならそのまま帰る](068-boolean-operands-return.md) - ☆☆☆
+- [069: 真ん中は一度だけ呼ばれる](069-comparison-chain-once.md) - ☆☆☆
+- [070: 最後に置いた鍵が勝つ](070-dict-display-merge.md) - ☆☆☆
+- [071: 文字列のふりをした信号機](071-strenum-task-state.md) - ☆☆☆
+- [072: 注文明細は自分で合計する](072-dataclass-order-line.md) - ☆☆☆
+- [073: 温度は二つの単位を持つ](073-property-temperature.md) - ☆☆☆
+- [074: 設定済みの整形関数を作る](074-functools-partial-pipeline.md) - ☆☆☆
+- [075: スライスは切らずに渡される](075-slice-recorder.md) - ☆☆☆☆
+- [076: inは古い扉も叩く](076-getitem-membership.md) - ☆☆☆☆
+- [077: 出口で例外を見分ける](077-suppress-only.md) - ☆☆☆☆
+- [078: 例外には親がいる](078-exception-cause.md) - ☆☆☆☆
+- [079: caseは形を見ている](079-match-event.md) - ☆☆☆☆
+- [080: withの内側だけ時間を測る](080-contextmanager-timer.md) - ☆☆☆☆
+- [081: カウントダウンは何度でも始まる](081-custom-iterator.md) - ☆☆☆☆
+- [082: 道順は覚えて数える](082-functools-cache-recursive.md) - ☆☆☆☆
+- [083: 重い集計は一度だけ](083-cached-property-report.md) - ☆☆☆☆
+- [084: 型ごとに表示を切り替える](084-singledispatch-format.md) - ☆☆☆☆
+- [085: 図形は面積を約束する](085-abc-shape-area.md) - ☆☆☆☆
+- [086: 型はふるまいを見ている](086-typing-protocol-duck.md) - ☆☆☆☆
+- [087: 例外の束をほどく](087-exception-group-count.md) - ☆☆☆☆☆
+- [088: 二本の下線は名前を隠す](088-private-name-mangle.md) - ☆☆☆☆☆
+- [089: 番人は属性の入口に立つ](089-descriptor-guard.md) - ☆☆☆☆☆

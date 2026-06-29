@@ -1,10 +1,10 @@
 ---
-title: "053: 「旗を立てれば設定が歩く」のヒント"
-description: "argparseでコマンドライン引数を解析し、設定辞書に変換する。"
+title: "053: 「売上レポートの入口を作る」のヒント"
+description: "argparseで選択肢、真偽フラグ、独自の型変換を扱う。"
 difficulty: 3
 ---
 
-# 053: 「旗を立てれば設定が歩く」のヒント
+# 053: 「売上レポートの入口を作る」のヒント
 
 [問題](../problems/053-argparse-flags.md) / [解答](../solutions/053-argparse-flags.md)
 
@@ -12,20 +12,20 @@ difficulty: 3
 
 ??? tip "ヒント1"
 
-    `ArgumentParser` に位置引数とオプションを登録してから、`parse_args(args)` を呼びます。
+    `choices` を使うと、`--format` の値を `table` と `json` に制限できます。
+    真偽フラグは `action="store_true"` で扱えます。
 
 ??? tip "ヒント2"
 
-    `--width` と `--height` は `type=int` を指定すると整数に変換されます。
-    必須オプションにするには `required=True` を使います。
+    `--tax-rate` のように変換と検査を同時にしたい値は、独自の関数を `type` に渡せます。
+    検査に失敗したら `argparse.ArgumentTypeError` を送出します。
 
 ??? tip "ヒント3"
 
-    `--format` は `choices=["png", "jpg"]` と `default="png"` を指定できます。
-    `--keep-aspect` は `action="store_true"` が使えます。
+    `YYYY-MM` の検査では、長さ、5文字目のハイフン、年と月が数字かどうかを見ます。
+    月が `01` から `12` の範囲にあることも確認します。
 
 ??? tip "ヒント4"
 
     `parse_args` の戻り値は `Namespace` です。
-    `vars(namespace)` で辞書に変換できます。
-
+    `vars(namespace)` を使うと、属性を辞書として取り出せます。

@@ -1,10 +1,10 @@
 ---
-title: "019: 「積読たちの仕分け係」の解答"
-description: "本の辞書リストを状態ごとにまとめる。"
+title: "019: 「読書ログは期限を覚えている」の解答"
+description: "辞書で状態別に集計し、期限切れ候補をソートしてタイトルを取り出す。"
 difficulty: 3
 ---
 
-# 019: 「積読たちの仕分け係」の解答
+# 019: 「読書ログは期限を覚えている」の解答
 
 [問題](../problems/019-group-books-by-status.md) / [ヒント](../hints/019-group-books-by-status.md)
 
@@ -12,37 +12,64 @@ difficulty: 3
 
 ## 方針
 
-本を1冊ずつ見て、状態を取り出します。
-その状態が結果の辞書にまだなければ空リストを用意し、そこへタイトルを追加します。
+1冊ずつ見ながら、状態別のタイトル一覧と冊数を更新します。
+同じループの中で期限切れも判定できます。
+
+期限切れ一覧は、タイトルだけを集めると期限順に並べ替えられません。
+そこで、期限、入力順、タイトルをタプルにして集め、最後にタイトルだけを取り出します。
 
 ## 実装
 
 ```python
-def group_titles_by_status(books):
-    grouped = {}
-    for book in books:
-        status = book["status"]
+def reading_report(books, today):
+    by_status = {}
+    counts = {}
+    overdue_candidates = []
+
+    for index, book in enumerate(books):
         title = book["title"]
-        if status not in grouped:
-            grouped[status] = []
-        grouped[status].append(title)
-    return grouped
+        status = book["status"]
+        due = book["due"]
+
+        if status not in by_status:
+            by_status[status] = []
+            counts[status] = 0
+        by_status[status].append(title)
+        counts[status] += 1
+
+        if status != "done" and due < today:
+            overdue_candidates.append((due, index, title))
+
+    overdue = [title for due, index, title in sorted(overdue_candidates)]
+    return {"by_status": by_status, "counts": counts, "overdue": overdue}
 ```
 
 ## 確認
 
 ```python
 books = [
-    {"title": "Python", "status": "reading"},
-    {"title": "Math", "status": "waiting"},
-    {"title": "SQL", "status": "reading"},
+    {"title": "Python", "status": "reading", "due": "2026-07-10"},
+    {"title": "Math", "status": "waiting", "due": "2026-06-20"},
+    {"title": "SQL", "status": "reading", "due": "2026-06-25"},
+    {"title": "Done", "status": "done", "due": "2026-06-01"},
 ]
-assert group_titles_by_status(books) == {"reading": ["Python", "SQL"], "waiting": ["Math"]}
-assert group_titles_by_status([]) == {}
+assert reading_report(books, "2026-06-30") == {
+    "by_status": {
+        "reading": ["Python", "SQL"],
+        "waiting": ["Math"],
+        "done": ["Done"],
+    },
+    "counts": {"reading": 2, "waiting": 1, "done": 1},
+    "overdue": ["Math", "SQL"],
+}
+assert reading_report([], "2026-06-30") == {
+    "by_status": {},
+    "counts": {},
+    "overdue": [],
+}
 ```
 
 ## 発展
 
-冊数だけを返すなら、リストではなく整数を値にします。
-初めて出た状態では1にし、すでにある状態では1を足します。
-
+状態ごとの期限切れ冊数を返す場合は、`overdue_counts` という辞書を追加します。
+期限切れと判定したところで、その本の `status` に対応する数を1増やします。
