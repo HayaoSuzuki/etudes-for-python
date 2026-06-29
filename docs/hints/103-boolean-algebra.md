@@ -1,12 +1,12 @@
 ---
-title: "101: 「ブールの箱庭」のヒント"
+title: "103: 「ブールの箱庭」のヒント"
 description: "冪集合を使って、ブール代数の演算と法則を実装する。"
 difficulty: 5
 ---
 
-# 101: 「ブールの箱庭」のヒント
+# 103: 「ブールの箱庭」のヒント
 
-[問題](../problems/101-boolean-algebra.md) / [解答](../solutions/101-boolean-algebra.md)
+[問題](../problems/103-boolean-algebra.md) / [解答](../solutions/103-boolean-algebra.md)
 
 **難易度:** ☆☆☆☆☆
 

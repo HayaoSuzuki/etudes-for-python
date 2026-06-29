@@ -1,12 +1,12 @@
 ---
-title: "101: ブールの箱庭"
+title: "103: ブールの箱庭"
 description: "有限集合の冪集合としてブール代数を実装する。"
 difficulty: 5
 ---
 
-# 101: ブールの箱庭
+# 103: ブールの箱庭
 
-[ヒント](../hints/101-boolean-algebra.md) / [解答](../solutions/101-boolean-algebra.md)
+[ヒント](../hints/103-boolean-algebra.md) / [解答](../solutions/103-boolean-algebra.md)
 
 **難易度:** ☆☆☆☆☆
 

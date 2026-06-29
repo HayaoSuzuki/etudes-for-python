@@ -104,11 +104,11 @@
 - [096: 終焉のカウントダウン](096-tower-of-hanoi.md) - ☆☆☆
 - [097: 計算機上に実装する電卓](097-reverse-polish-notation.md) - ☆☆☆
 - [098: そして逆ポーランド記法へ](098-infix-to-rpn.md) - ☆☆☆☆
-- [099: 石の上にもニム](099-nim-winning-move.md) - ☆☆☆☆
-- [100: 1+1=?](100-one-plus-one.md) - ☆☆☆☆
-- [101: ブールの箱庭](101-boolean-algebra.md) - ☆☆☆☆☆
-- [102: 百夜通い](102-komachi-calculation.md) - ☆☆☆☆☆
-- [103: 列車が到着する前に](103-ten-puzzle.md) - ☆☆☆☆☆
+- [099: 百夜通い](099-komachi-calculation.md) - ☆☆☆☆☆
+- [100: 列車が到着する前に](100-ten-puzzle.md) - ☆☆☆☆☆
+- [101: 石の上にもニム](101-nim-winning-move.md) - ☆☆☆☆
+- [102: 1+1=?](102-one-plus-one.md) - ☆☆☆☆
+- [103: ブールの箱庭](103-boolean-algebra.md) - ☆☆☆☆☆
 - [104: 命令表はコードでもある](104-ssc-instruction-table.md) - ☆☆☆
 - [105: ニーモニックの皮をかぶった数](105-ssc-assembly-line.md) - ☆☆☆
 - [106: 左に寄せれば二倍になる](106-ssc-shift-double.md) - ☆☆☆

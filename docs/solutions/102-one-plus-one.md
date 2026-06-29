@@ -1,12 +1,12 @@
 ---
-title: "100: 「1+1=?」の解答"
+title: "102: 「1+1=?」の解答"
 description: "値を2で割った余りに正規化し、F2の演算を特殊メソッドで定義する。"
 difficulty: 4
 ---
 
-# 100: 「1+1=?」の解答
+# 102: 「1+1=?」の解答
 
-[問題](../problems/100-one-plus-one.md) / [ヒント](../hints/100-one-plus-one.md)
+[問題](../problems/102-one-plus-one.md) / [ヒント](../hints/102-one-plus-one.md)
 
 **難易度:** ☆☆☆☆
 

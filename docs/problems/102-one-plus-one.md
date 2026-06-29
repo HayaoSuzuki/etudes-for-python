@@ -1,12 +1,12 @@
 ---
-title: "100: 1+1=?"
+title: "102: 1+1=?"
 description: "二元体F2を実装し、1+1が0になる世界をコードにする。"
 difficulty: 4
 ---
 
-# 100: 1+1=?
+# 102: 1+1=?
 
-[ヒント](../hints/100-one-plus-one.md) / [解答](../solutions/100-one-plus-one.md)
+[ヒント](../hints/102-one-plus-one.md) / [解答](../solutions/102-one-plus-one.md)
 
 **難易度:** ☆☆☆☆
 

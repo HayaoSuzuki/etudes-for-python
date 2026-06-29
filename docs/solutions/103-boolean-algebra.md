@@ -1,12 +1,12 @@
 ---
-title: "101: 「ブールの箱庭」の解答"
+title: "103: 「ブールの箱庭」の解答"
 description: "冪集合の和集合、共通部分、補集合としてブール代数を実装する。"
 difficulty: 5
 ---
 
-# 101: 「ブールの箱庭」の解答
+# 103: 「ブールの箱庭」の解答
 
-[問題](../problems/101-boolean-algebra.md) / [ヒント](../hints/101-boolean-algebra.md)
+[問題](../problems/103-boolean-algebra.md) / [ヒント](../hints/103-boolean-algebra.md)
 
 **難易度:** ☆☆☆☆☆
 

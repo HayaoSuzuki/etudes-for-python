@@ -1,12 +1,12 @@
 ---
-title: "103: 「列車が到着する前に」のヒント"
+title: "100: 「列車が到着する前に」のヒント"
 description: "逆ポーランド記法の式を全探索し、4個の数字から10を作れるかを判定する。"
 difficulty: 5
 ---
 
-# 103: 「列車が到着する前に」のヒント
+# 100: 「列車が到着する前に」のヒント
 
-[問題](../problems/103-ten-puzzle.md) / [解答](../solutions/103-ten-puzzle.md)
+[問題](../problems/100-ten-puzzle.md) / [解答](../solutions/100-ten-puzzle.md)
 
 **難易度:** ☆☆☆☆☆
 

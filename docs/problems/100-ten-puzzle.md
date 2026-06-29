@@ -1,12 +1,12 @@
 ---
-title: "103: 列車が到着する前に"
+title: "100: 列車が到着する前に"
 description: "4個の数字と四則演算で10を作れない組み合わせをすべて列挙する。"
 difficulty: 5
 ---
 
-# 103: 列車が到着する前に
+# 100: 列車が到着する前に
 
-[ヒント](../hints/103-ten-puzzle.md) / [解答](../solutions/103-ten-puzzle.md)
+[ヒント](../hints/100-ten-puzzle.md) / [解答](../solutions/100-ten-puzzle.md)
 
 **難易度:** ☆☆☆☆☆
 

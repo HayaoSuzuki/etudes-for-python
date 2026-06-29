@@ -1,12 +1,12 @@
 ---
-title: "099: 「石の上にもニム」の解答"
+title: "101: 「石の上にもニム」の解答"
 description: "ニム和が0になるように、1つの山を減らす。"
 difficulty: 4
 ---
 
-# 099: 「石の上にもニム」の解答
+# 101: 「石の上にもニム」の解答
 
-[問題](../problems/099-nim-winning-move.md) / [ヒント](../hints/099-nim-winning-move.md)
+[問題](../problems/101-nim-winning-move.md) / [ヒント](../hints/101-nim-winning-move.md)
 
 **難易度:** ☆☆☆☆
 

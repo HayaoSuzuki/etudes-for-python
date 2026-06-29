@@ -1,12 +1,12 @@
 ---
-title: "103: 「列車が到着する前に」の解答"
+title: "100: 「列車が到着する前に」の解答"
 description: "逆ポーランド記法の式を列挙し、通常ルールでは10を作れない組み合わせを調べる。"
 difficulty: 5
 ---
 
-# 103: 「列車が到着する前に」の解答
+# 100: 「列車が到着する前に」の解答
 
-[問題](../problems/103-ten-puzzle.md) / [ヒント](../hints/103-ten-puzzle.md)
+[問題](../problems/100-ten-puzzle.md) / [ヒント](../hints/100-ten-puzzle.md)
 
 **難易度:** ☆☆☆☆☆
 

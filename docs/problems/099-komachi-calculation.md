@@ -1,12 +1,12 @@
 ---
-title: "102: 百夜通い"
+title: "099: 百夜通い"
 description: "1から9の間に演算子を入れて100になる式をすべて列挙する。"
 difficulty: 5
 ---
 
-# 102: 百夜通い
+# 099: 百夜通い
 
-[ヒント](../hints/102-komachi-calculation.md) / [解答](../solutions/102-komachi-calculation.md)
+[ヒント](../hints/099-komachi-calculation.md) / [解答](../solutions/099-komachi-calculation.md)
 
 **難易度:** ☆☆☆☆☆
 

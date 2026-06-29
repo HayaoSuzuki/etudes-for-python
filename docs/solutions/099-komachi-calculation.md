@@ -1,12 +1,12 @@
 ---
-title: "102: 「百夜通い」の解答"
+title: "099: 「百夜通い」の解答"
 description: "候補式を逆ポーランド記法へ変換し、分数で正確に100と比較する。"
 difficulty: 5
 ---
 
-# 102: 「百夜通い」の解答
+# 099: 「百夜通い」の解答
 
-[問題](../problems/102-komachi-calculation.md) / [ヒント](../hints/102-komachi-calculation.md)
+[問題](../problems/099-komachi-calculation.md) / [ヒント](../hints/099-komachi-calculation.md)
 
 **難易度:** ☆☆☆☆☆
 

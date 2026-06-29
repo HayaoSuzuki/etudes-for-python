@@ -1,12 +1,12 @@
 ---
-title: "099: 「石の上にもニム」のヒント"
+title: "101: 「石の上にもニム」のヒント"
 description: "ニム和を使って、相手に渡す盤面を作る。"
 difficulty: 4
 ---
 
-# 099: 「石の上にもニム」のヒント
+# 101: 「石の上にもニム」のヒント
 
-[問題](../problems/099-nim-winning-move.md) / [解答](../solutions/099-nim-winning-move.md)
+[問題](../problems/101-nim-winning-move.md) / [解答](../solutions/101-nim-winning-move.md)
 
 **難易度:** ☆☆☆☆
 

@@ -1,12 +1,12 @@
 ---
-title: "100: 「1+1=?」のヒント"
+title: "102: 「1+1=?」のヒント"
 description: "2で割った余りとしてF2の演算を実装する。"
 difficulty: 4
 ---
 
-# 100: 「1+1=?」のヒント
+# 102: 「1+1=?」のヒント
 
-[問題](../problems/100-one-plus-one.md) / [解答](../solutions/100-one-plus-one.md)
+[問題](../problems/102-one-plus-one.md) / [解答](../solutions/102-one-plus-one.md)
 
 **難易度:** ☆☆☆☆
 

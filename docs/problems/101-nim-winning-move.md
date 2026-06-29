@@ -1,12 +1,12 @@
 ---
-title: "099: 石の上にもニム"
+title: "101: 石の上にもニム"
 description: "ニムの盤面を受け取り、必勝手を1つ返す。"
 difficulty: 4
 ---
 
-# 099: 石の上にもニム
+# 101: 石の上にもニム
 
-[ヒント](../hints/099-nim-winning-move.md) / [解答](../solutions/099-nim-winning-move.md)
+[ヒント](../hints/101-nim-winning-move.md) / [解答](../solutions/101-nim-winning-move.md)
 
 **難易度:** ☆☆☆☆
 
