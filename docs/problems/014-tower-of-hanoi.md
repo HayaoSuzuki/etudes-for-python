@@ -1,11 +1,14 @@
 ---
 title: "014: 終焉のカウントダウン"
 description: "円盤の枚数を入力して、ハノイの塔の移動手順を出力する。"
+difficulty: 3
 ---
 
 # 014: 終焉のカウントダウン
 
 [ヒント](../hints/014-tower-of-hanoi.md) / [解答](../solutions/014-tower-of-hanoi.md)
+
+**難易度:** ☆☆☆
 
 ## 問題
 

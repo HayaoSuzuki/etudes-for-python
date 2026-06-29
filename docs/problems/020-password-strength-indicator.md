@@ -1,11 +1,14 @@
 ---
 title: "020: 私の戦闘力は53万"
 description: "正規表現で文字種を数え、パスワードの強さを分類する。"
+difficulty: 3
 ---
 
 # 020: 私の戦闘力は53万
 
 [ヒント](../hints/020-password-strength-indicator.md) / [解答](../solutions/020-password-strength-indicator.md)
+
+**難易度:** ☆☆☆
 
 ## 問題
 

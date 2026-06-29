@@ -1,11 +1,14 @@
 ---
 title: "017: 「百夜通い」の解答"
 description: "候補式を逆ポーランド記法へ変換し、分数で正確に100と比較する。"
+difficulty: 5
 ---
 
 # 017: 「百夜通い」の解答
 
 [問題](../problems/017-komachi-calculation.md) / [ヒント](../hints/017-komachi-calculation.md)
+
+**難易度:** ☆☆☆☆☆
 
 ## 方針
 

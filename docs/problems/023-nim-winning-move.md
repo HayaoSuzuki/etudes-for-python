@@ -1,11 +1,14 @@
 ---
 title: "023: 石の上にもニム"
 description: "ニムの盤面を受け取り、必勝手を1つ返す。"
+difficulty: 4
 ---
 
 # 023: 石の上にもニム
 
 [ヒント](../hints/023-nim-winning-move.md) / [解答](../solutions/023-nim-winning-move.md)
+
+**難易度:** ☆☆☆☆
 
 ## 問題
 

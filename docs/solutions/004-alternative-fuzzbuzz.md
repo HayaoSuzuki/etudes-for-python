@@ -1,11 +1,14 @@
 ---
 title: "004: 「宇宙の鍵は3,6,9」の解答"
 description: "包含関係のある倍数条件を優先順位つきの分岐で扱う。"
+difficulty: 2
 ---
 
 # 004: 「宇宙の鍵は3,6,9」の解答
 
 [問題](../problems/004-alternative-fuzzbuzz.md) / [ヒント](../hints/004-alternative-fuzzbuzz.md)
+
+**難易度:** ☆☆
 
 ## 方針
 

@@ -1,11 +1,14 @@
 ---
 title: "006: 四角い三角関係"
 description: "平方数でも三角数でもある数を、小さい順に10個求める。"
+difficulty: 4
 ---
 
 # 006: 四角い三角関係
 
 [ヒント](../hints/006-square-triangular-number.md) / [解答](../solutions/006-square-triangular-number.md)
+
+**難易度:** ☆☆☆☆
 
 ## 問題
 

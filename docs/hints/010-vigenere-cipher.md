@@ -1,11 +1,14 @@
 ---
 title: "010: 「檸檬」のヒント"
 description: "鍵の文字をシフト量として扱う。"
+difficulty: 3
 ---
 
 # 010: 「檸檬」のヒント
 
 [問題](../problems/010-vigenere-cipher.md) / [解答](../solutions/010-vigenere-cipher.md)
+
+**難易度:** ☆☆☆
 
 ??? tip "ヒント1"
 

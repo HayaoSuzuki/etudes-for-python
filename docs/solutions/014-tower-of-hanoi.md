@@ -1,11 +1,14 @@
 ---
 title: "014: 終焉のカウントダウンの解答"
 description: "再帰で小さい塔の移動手順を組み合わせる。"
+difficulty: 3
 ---
 
 # 014: 終焉のカウントダウンの解答
 
 [問題](../problems/014-tower-of-hanoi.md) / [ヒント](../hints/014-tower-of-hanoi.md)
+
+**難易度:** ☆☆☆
 
 ## 方針
 

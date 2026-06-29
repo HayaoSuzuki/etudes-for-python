@@ -1,11 +1,14 @@
 ---
 title: "021: 「世界の合言葉は森」の解答"
 description: "secretsで候補を作り、正規表現で条件を満たすまで生成する。"
+difficulty: 4
 ---
 
 # 021: 「世界の合言葉は森」の解答
 
 [問題](../problems/021-password-generator.md) / [ヒント](../hints/021-password-generator.md)
+
+**難易度:** ☆☆☆☆
 
 ## 方針
 

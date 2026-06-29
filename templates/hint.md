@@ -1,11 +1,14 @@
 ---
 title: "NNN: タイトルのヒント"
 description: "このヒントで扱う観点を1文で書く。"
+difficulty: 1
 ---
 
 # NNN: タイトルのヒント
 
 [問題](../problems/NNN-slug.md) / [解答](../solutions/NNN-slug.md)
+
+**難易度:** ☆
 
 ## ヒント1
 

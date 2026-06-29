@@ -1,11 +1,14 @@
 ---
 title: "020: 「私の戦闘力は53万」のヒント"
 description: "正規表現で点数を増減させる。"
+difficulty: 3
 ---
 
 # 020: 「私の戦闘力は53万」のヒント
 
 [問題](../problems/020-password-strength-indicator.md) / [解答](../solutions/020-password-strength-indicator.md)
+
+**難易度:** ☆☆☆
 
 ??? tip "ヒント1"
 

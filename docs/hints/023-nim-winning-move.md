@@ -1,11 +1,14 @@
 ---
 title: "023: 「石の上にもニム」のヒント"
 description: "ニム和を使って、相手に渡す盤面を作る。"
+difficulty: 4
 ---
 
 # 023: 「石の上にもニム」のヒント
 
 [問題](../problems/023-nim-winning-move.md) / [解答](../solutions/023-nim-winning-move.md)
+
+**難易度:** ☆☆☆☆
 
 ??? tip "ヒント1"
 

@@ -1,11 +1,14 @@
 ---
 title: "011: G.C.D"
 description: "Euclidの互除法で最大公約数を求める。"
+difficulty: 2
 ---
 
 # 011: G.C.D
 
 [ヒント](../hints/011-euclidean-algorithm.md) / [解答](../solutions/011-euclidean-algorithm.md)
+
+**難易度:** ☆☆
 
 ## 問題
 

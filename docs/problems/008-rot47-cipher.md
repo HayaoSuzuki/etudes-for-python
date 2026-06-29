@@ -1,11 +1,14 @@
 ---
 title: "008: メリー・ポピンズからの暗号文"
 description: "ROT47で暗号化された文字列を復号する。"
+difficulty: 2
 ---
 
 # 008: メリー・ポピンズからの暗号文
 
 [ヒント](../hints/008-rot47-cipher.md) / [解答](../solutions/008-rot47-cipher.md)
+
+**難易度:** ☆☆
 
 ## 問題
 

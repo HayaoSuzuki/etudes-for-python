@@ -1,11 +1,14 @@
 ---
 title: "010: 檸檬"
 description: "繰り返す鍵を使って英大文字を暗号化する。"
+difficulty: 3
 ---
 
 # 010: 檸檬
 
 [ヒント](../hints/010-vigenere-cipher.md) / [解答](../solutions/010-vigenere-cipher.md)
+
+**難易度:** ☆☆☆
 
 ## 問題
 

@@ -1,11 +1,14 @@
 ---
 title: "005: フィボナッチの四重奏"
 description: "直前4項の和で定まる数列を、重複計算を避けて求める。"
+difficulty: 3
 ---
 
 # 005: フィボナッチの四重奏
 
 [ヒント](../hints/005-tetranacci.md) / [解答](../solutions/005-tetranacci.md)
+
+**難易度:** ☆☆☆
 
 ## 問題
 

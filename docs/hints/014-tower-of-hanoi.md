@@ -1,11 +1,14 @@
 ---
 title: "014: 終焉のカウントダウンのヒント"
 description: "大きな問題を同じ形の小さな問題に分ける。"
+difficulty: 3
 ---
 
 # 014: 終焉のカウントダウンのヒント
 
 [問題](../problems/014-tower-of-hanoi.md) / [解答](../solutions/014-tower-of-hanoi.md)
+
+**難易度:** ☆☆☆
 
 ??? tip "ヒント1"
 

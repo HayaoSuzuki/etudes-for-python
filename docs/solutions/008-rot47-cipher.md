@@ -1,11 +1,14 @@
 ---
 title: "008: 「メリー・ポピンズからの暗号文」の解答"
 description: "印字可能ASCII文字を47文字ずらして復号する。"
+difficulty: 2
 ---
 
 # 008: 「メリー・ポピンズからの暗号文」の解答
 
 [問題](../problems/008-rot47-cipher.md) / [ヒント](../hints/008-rot47-cipher.md)
+
+**難易度:** ☆☆
 
 ## 方針
 

@@ -1,11 +1,14 @@
 ---
 title: "NNN: タイトルの解答"
 description: "解法の中心を1文で書く。"
+difficulty: 1
 ---
 
 # NNN: タイトルの解答
 
 [問題](../problems/NNN-slug.md) / [ヒント](../hints/NNN-slug.md)
+
+**難易度:** ☆
 
 ## 方針
 

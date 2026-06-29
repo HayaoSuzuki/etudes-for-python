@@ -1,11 +1,14 @@
 ---
 title: "006: 「四角い三角関係」の解答"
 description: "平方数を生成し、8x+1が平方数かどうかで三角数を判定する。"
+difficulty: 4
 ---
 
 # 006: 「四角い三角関係」の解答
 
 [問題](../problems/006-square-triangular-number.md) / [ヒント](../hints/006-square-triangular-number.md)
+
+**難易度:** ☆☆☆☆
 
 ## 方針
 

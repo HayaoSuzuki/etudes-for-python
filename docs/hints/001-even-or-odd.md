@@ -1,11 +1,14 @@
 ---
 title: "001: 驚くべき関数のヒント"
 description: "奇数を2で割り切れない整数として考える。"
+difficulty: 1
 ---
 
 # 001: 驚くべき関数のヒント
 
 [問題](../problems/001-even-or-odd.md) / [解答](../solutions/001-even-or-odd.md)
+
+**難易度:** ☆
 
 ??? tip "ヒント1"
 

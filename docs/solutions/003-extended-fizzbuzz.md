@@ -1,11 +1,14 @@
 ---
 title: "003: 「七五三」の解答"
 description: "独立したif文で複数の倍数条件を組み合わせる。"
+difficulty: 2
 ---
 
 # 003: 「七五三」の解答
 
 [問題](../problems/003-extended-fizzbuzz.md) / [ヒント](../hints/003-extended-fizzbuzz.md)
+
+**難易度:** ☆☆
 
 ## 方針
 

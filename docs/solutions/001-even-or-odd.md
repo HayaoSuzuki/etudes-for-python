@@ -1,11 +1,14 @@
 ---
 title: "001: 驚くべき関数の解答"
 description: "2で割り切れないことを使って奇数を判定する。"
+difficulty: 1
 ---
 
 # 001: 驚くべき関数の解答
 
 [問題](../problems/001-even-or-odd.md) / [ヒント](../hints/001-even-or-odd.md)
+
+**難易度:** ☆
 
 ## 方針
 

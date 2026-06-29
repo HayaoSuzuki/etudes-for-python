@@ -1,11 +1,14 @@
 ---
 title: "009: 「ASCIIは二度回る」の解答"
 description: "ASCIIコード33から126までを94文字の輪として扱う。"
+difficulty: 3
 ---
 
 # 009: 「ASCIIは二度回る」の解答
 
 [問題](../problems/009-rotate-printable-ascii.md) / [ヒント](../hints/009-rotate-printable-ascii.md)
+
+**難易度:** ☆☆☆
 
 ## 方針
 

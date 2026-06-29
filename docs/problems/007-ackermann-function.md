@@ -1,11 +1,14 @@
 ---
 title: "007: アッカーマンの深淵"
 description: "再帰的に定義された関数を読み、m=3の場合を大きなnまで計算する。"
+difficulty: 4
 ---
 
 # 007: アッカーマンの深淵
 
 [ヒント](../hints/007-ackermann-function.md) / [解答](../solutions/007-ackermann-function.md)
+
+**難易度:** ☆☆☆☆
 
 ## 問題
 

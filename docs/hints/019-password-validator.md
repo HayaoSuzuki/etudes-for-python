@@ -1,11 +1,14 @@
 ---
 title: "019: 「紅美鈴はよく眠る」のヒント"
 description: "fullmatchとsearchを使い分ける。"
+difficulty: 3
 ---
 
 # 019: 「紅美鈴はよく眠る」のヒント
 
 [問題](../problems/019-password-validator.md) / [解答](../solutions/019-password-validator.md)
+
+**難易度:** ☆☆☆
 
 ??? tip "ヒント1"
 

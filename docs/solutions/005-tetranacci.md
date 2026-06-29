@@ -1,11 +1,14 @@
 ---
 title: "005: 「フィボナッチの四重奏」の解答"
 description: "前から順に計算して、各項を一度だけ求める。"
+difficulty: 3
 ---
 
 # 005: 「フィボナッチの四重奏」の解答
 
 [問題](../problems/005-tetranacci.md) / [ヒント](../hints/005-tetranacci.md)
+
+**難易度:** ☆☆☆
 
 ## 方針
 

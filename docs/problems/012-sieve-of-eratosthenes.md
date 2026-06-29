@@ -1,11 +1,14 @@
 ---
 title: "012: 夜の金網をくぐり抜け"
 description: "エラトステネスの篩でn以下の素数を列挙する。"
+difficulty: 3
 ---
 
 # 012: 夜の金網をくぐり抜け
 
 [ヒント](../hints/012-sieve-of-eratosthenes.md) / [解答](../solutions/012-sieve-of-eratosthenes.md)
+
+**難易度:** ☆☆☆
 
 ## 問題
 

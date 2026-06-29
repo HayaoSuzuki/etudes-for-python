@@ -1,11 +1,14 @@
 ---
 title: "009: 「ASCIIは二度回る」のヒント"
 description: "文字コードを0から93までの番号に直してから回転する。"
+difficulty: 3
 ---
 
 # 009: 「ASCIIは二度回る」のヒント
 
 [問題](../problems/009-rotate-printable-ascii.md) / [解答](../solutions/009-rotate-printable-ascii.md)
+
+**難易度:** ☆☆☆
 
 ??? tip "ヒント1"
 

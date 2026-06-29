@@ -1,11 +1,14 @@
 ---
 title: "022: 「64文字の手紙」のヒント"
 description: "Base64の3バイト、4文字、6ビットの対応を段階的に考える。"
+difficulty: 5
 ---
 
 # 022: 「64文字の手紙」のヒント
 
 [問題](../problems/022-base64-family.md) / [解答](../solutions/022-base64-family.md)
+
+**難易度:** ☆☆☆☆☆
 
 ??? tip "ヒント1"
 

@@ -1,11 +1,14 @@
 ---
 title: "013: 「小さな鍵、大きな秘密」のヒント"
 description: "素数、最大公約数、逆元、剰余付きべき乗を組み合わせる。"
+difficulty: 4
 ---
 
 # 013: 「小さな鍵、大きな秘密」のヒント
 
 [問題](../problems/013-rsa-cipher.md) / [解答](../solutions/013-rsa-cipher.md)
+
+**難易度:** ☆☆☆☆
 
 ??? tip "ヒント1"
 

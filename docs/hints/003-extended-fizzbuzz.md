@@ -1,11 +1,14 @@
 ---
 title: "003: 「七五三」のヒント"
 description: "for文とif文で複数の倍数条件を扱う。"
+difficulty: 2
 ---
 
 # 003: 「七五三」のヒント
 
 [問題](../problems/003-extended-fizzbuzz.md) / [解答](../solutions/003-extended-fizzbuzz.md)
+
+**難易度:** ☆☆
 
 ??? tip "ヒント1"
 

@@ -1,11 +1,14 @@
 ---
 title: "025: ブールの箱庭"
 description: "有限集合の冪集合としてブール代数を実装する。"
+difficulty: 5
 ---
 
 # 025: ブールの箱庭
 
 [ヒント](../hints/025-boolean-algebra.md) / [解答](../solutions/025-boolean-algebra.md)
+
+**難易度:** ☆☆☆☆☆
 
 ## 問題
 

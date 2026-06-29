@@ -1,11 +1,14 @@
 ---
 title: "022: 64文字の手紙"
 description: "3バイトを4文字に分けて、Base64系のエンコードとデコードを実装する。"
+difficulty: 5
 ---
 
 # 022: 64文字の手紙
 
 [ヒント](../hints/022-base64-family.md) / [解答](../solutions/022-base64-family.md)
+
+**難易度:** ☆☆☆☆☆
 
 ## 問題
 

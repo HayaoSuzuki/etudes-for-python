@@ -1,11 +1,14 @@
 ---
 title: "016: 「計算機上に実装する電卓」のヒント"
 description: "値をスタックに積み、演算子で取り出して計算する。"
+difficulty: 3
 ---
 
 # 016: 「計算機上に実装する電卓」のヒント
 
 [問題](../problems/016-reverse-polish-notation.md) / [解答](../solutions/016-reverse-polish-notation.md)
+
+**難易度:** ☆☆☆
 
 ??? tip "ヒント1"
 

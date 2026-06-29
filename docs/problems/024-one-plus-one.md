@@ -1,11 +1,14 @@
 ---
 title: "024: 1+1=?"
 description: "二元体F2を実装し、1+1が0になる世界をコードにする。"
+difficulty: 4
 ---
 
 # 024: 1+1=?
 
 [ヒント](../hints/024-one-plus-one.md) / [解答](../solutions/024-one-plus-one.md)
+
+**難易度:** ☆☆☆☆
 
 ## 問題
 

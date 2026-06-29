@@ -1,11 +1,14 @@
 ---
 title: "002: Hello world 2nd stageの解答"
 description: "sys.stdin.readline()とsys.stdout.write()で標準入出力を扱う。"
+difficulty: 2
 ---
 
 # 002: Hello world 2nd stageの解答
 
 [問題](../problems/002-hello-world-2nd-stage.md) / [ヒント](../hints/002-hello-world-2nd-stage.md)
+
+**難易度:** ☆☆
 
 ## 方針
 

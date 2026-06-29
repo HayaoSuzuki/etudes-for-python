@@ -1,11 +1,14 @@
 ---
 title: "025: 「ブールの箱庭」のヒント"
 description: "冪集合を使って、ブール代数の演算と法則を実装する。"
+difficulty: 5
 ---
 
 # 025: 「ブールの箱庭」のヒント
 
 [問題](../problems/025-boolean-algebra.md) / [解答](../solutions/025-boolean-algebra.md)
+
+**難易度:** ☆☆☆☆☆
 
 ??? tip "ヒント1"
 

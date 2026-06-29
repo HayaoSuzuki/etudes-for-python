@@ -1,11 +1,14 @@
 ---
 title: "012: 「夜の金網をくぐり抜け」の解答"
 description: "素数候補のリストから倍数を消して素数を残す。"
+difficulty: 3
 ---
 
 # 012: 「夜の金網をくぐり抜け」の解答
 
 [問題](../problems/012-sieve-of-eratosthenes.md) / [ヒント](../hints/012-sieve-of-eratosthenes.md)
+
+**難易度:** ☆☆☆
 
 ## 方針
 

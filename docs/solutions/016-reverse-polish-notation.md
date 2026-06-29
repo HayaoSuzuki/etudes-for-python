@@ -1,11 +1,14 @@
 ---
 title: "016: 「計算機上に実装する電卓」の解答"
 description: "数値と演算子を左から読み、スタックで式を評価する。"
+difficulty: 3
 ---
 
 # 016: 「計算機上に実装する電卓」の解答
 
 [問題](../problems/016-reverse-polish-notation.md) / [ヒント](../hints/016-reverse-polish-notation.md)
+
+**難易度:** ☆☆☆
 
 ## 方針
 

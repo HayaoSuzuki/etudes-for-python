@@ -1,11 +1,14 @@
 ---
 title: "018: 列車が到着する前に"
 description: "4個の数字と四則演算で10を作れない組み合わせをすべて列挙する。"
+difficulty: 5
 ---
 
 # 018: 列車が到着する前に
 
 [ヒント](../hints/018-ten-puzzle.md) / [解答](../solutions/018-ten-puzzle.md)
+
+**難易度:** ☆☆☆☆☆
 
 ## 問題
 

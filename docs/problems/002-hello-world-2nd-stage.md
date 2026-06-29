@@ -1,11 +1,14 @@
 ---
 title: "002: Hello world 2nd stage"
 description: "print()とinput()を使わず、標準入力から読んだ名前を標準出力へ書く。"
+difficulty: 2
 ---
 
 # 002: Hello world 2nd stage
 
 [ヒント](../hints/002-hello-world-2nd-stage.md) / [解答](../solutions/002-hello-world-2nd-stage.md)
+
+**難易度:** ☆☆
 
 ## 問題
 

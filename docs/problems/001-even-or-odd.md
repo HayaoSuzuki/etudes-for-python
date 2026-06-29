@@ -1,11 +1,14 @@
 ---
 title: "001: 驚くべき関数"
 description: "負の整数を含めて、整数が奇数かどうかを判定する関数を書く。"
+difficulty: 1
 ---
 
 # 001: 驚くべき関数
 
 [ヒント](../hints/001-even-or-odd.md) / [解答](../solutions/001-even-or-odd.md)
+
+**難易度:** ☆
 
 ## 問題
 

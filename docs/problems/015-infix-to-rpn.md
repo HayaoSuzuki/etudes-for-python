@@ -1,11 +1,14 @@
 ---
 title: "015: そして逆ポーランド記法へ"
 description: "中置記法の式を逆ポーランド記法へ変換する。"
+difficulty: 4
 ---
 
 # 015: そして逆ポーランド記法へ
 
 [ヒント](../hints/015-infix-to-rpn.md) / [解答](../solutions/015-infix-to-rpn.md)
+
+**難易度:** ☆☆☆☆
 
 ## 問題
 

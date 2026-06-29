@@ -1,11 +1,14 @@
 ---
 title: "023: 「石の上にもニム」の解答"
 description: "ニム和が0になるように、1つの山を減らす。"
+difficulty: 4
 ---
 
 # 023: 「石の上にもニム」の解答
 
 [問題](../problems/023-nim-winning-move.md) / [ヒント](../hints/023-nim-winning-move.md)
+
+**難易度:** ☆☆☆☆
 
 ## 方針
 

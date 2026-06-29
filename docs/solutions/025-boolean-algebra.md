@@ -1,11 +1,14 @@
 ---
 title: "025: 「ブールの箱庭」の解答"
 description: "冪集合の和集合、共通部分、補集合としてブール代数を実装する。"
+difficulty: 5
 ---
 
 # 025: 「ブールの箱庭」の解答
 
 [問題](../problems/025-boolean-algebra.md) / [ヒント](../hints/025-boolean-algebra.md)
+
+**難易度:** ☆☆☆☆☆
 
 ## 方針
 

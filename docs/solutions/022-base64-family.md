@@ -1,11 +1,14 @@
 ---
 title: "022: 「64文字の手紙」の解答"
 description: "3バイトを24ビットの整数にし、6ビットずつBase64の文字に変換する。"
+difficulty: 5
 ---
 
 # 022: 「64文字の手紙」の解答
 
 [問題](../problems/022-base64-family.md) / [ヒント](../hints/022-base64-family.md)
+
+**難易度:** ☆☆☆☆☆
 
 ## 方針
 

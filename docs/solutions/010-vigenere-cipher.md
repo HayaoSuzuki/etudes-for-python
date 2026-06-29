@@ -1,11 +1,14 @@
 ---
 title: "010: 「檸檬」の解答"
 description: "鍵を繰り返しながら英大文字を26文字の範囲で回転する。"
+difficulty: 3
 ---
 
 # 010: 「檸檬」の解答
 
 [問題](../problems/010-vigenere-cipher.md) / [ヒント](../hints/010-vigenere-cipher.md)
+
+**難易度:** ☆☆☆
 
 ## 方針
 

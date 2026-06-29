@@ -1,11 +1,14 @@
 ---
 title: "009: ASCIIは二度回る"
 description: "印字可能ASCII文字を任意の数だけ回転する。"
+difficulty: 3
 ---
 
 # 009: ASCIIは二度回る
 
 [ヒント](../hints/009-rotate-printable-ascii.md) / [解答](../solutions/009-rotate-printable-ascii.md)
+
+**難易度:** ☆☆☆
 
 ## 問題
 

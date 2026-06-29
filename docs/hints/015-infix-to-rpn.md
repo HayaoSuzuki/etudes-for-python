@@ -1,11 +1,14 @@
 ---
 title: "015: 「そして逆ポーランド記法へ」のヒント"
 description: "出力列と演算子スタックを分けて使う。"
+difficulty: 4
 ---
 
 # 015: 「そして逆ポーランド記法へ」のヒント
 
 [問題](../problems/015-infix-to-rpn.md) / [解答](../solutions/015-infix-to-rpn.md)
+
+**難易度:** ☆☆☆☆
 
 ??? tip "ヒント1"
 

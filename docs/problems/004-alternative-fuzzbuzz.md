@@ -1,11 +1,14 @@
 ---
 title: "004: 宇宙の鍵は3,6,9"
 description: "3、6、9の倍数を優先順位つきで判定する関数を書く。"
+difficulty: 2
 ---
 
 # 004: 宇宙の鍵は3,6,9
 
 [ヒント](../hints/004-alternative-fuzzbuzz.md) / [解答](../solutions/004-alternative-fuzzbuzz.md)
+
+**難易度:** ☆☆
 
 ## 問題
 

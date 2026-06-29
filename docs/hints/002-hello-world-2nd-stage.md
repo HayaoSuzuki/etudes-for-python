@@ -1,11 +1,14 @@
 ---
 title: "002: Hello world 2nd stageのヒント"
 description: "sys.stdinとsys.stdoutを使って入出力を行う。"
+difficulty: 2
 ---
 
 # 002: Hello world 2nd stageのヒント
 
 [問題](../problems/002-hello-world-2nd-stage.md) / [解答](../solutions/002-hello-world-2nd-stage.md)
+
+**難易度:** ☆☆
 
 ??? tip "ヒント1"
 

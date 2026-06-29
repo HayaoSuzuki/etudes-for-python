@@ -1,11 +1,14 @@
 ---
 title: "019: 「紅美鈴はよく眠る」の解答"
 description: "fullmatchとsearchを使い分けて、パスワード規則を検査する。"
+difficulty: 3
 ---
 
 # 019: 「紅美鈴はよく眠る」の解答
 
 [問題](../problems/019-password-validator.md) / [ヒント](../hints/019-password-validator.md)
+
+**難易度:** ☆☆☆
 
 ## 方針
 

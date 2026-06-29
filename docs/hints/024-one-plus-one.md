@@ -1,11 +1,14 @@
 ---
 title: "024: 「1+1=?」のヒント"
 description: "2で割った余りとしてF2の演算を実装する。"
+difficulty: 4
 ---
 
 # 024: 「1+1=?」のヒント
 
 [問題](../problems/024-one-plus-one.md) / [解答](../solutions/024-one-plus-one.md)
+
+**難易度:** ☆☆☆☆
 
 ??? tip "ヒント1"
 

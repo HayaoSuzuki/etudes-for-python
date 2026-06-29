@@ -1,11 +1,14 @@
 ---
 title: "020: 「私の戦闘力は53万」の解答"
 description: "正規表現で文字種と危険な形を検出し、点数から強さを分類する。"
+difficulty: 3
 ---
 
 # 020: 「私の戦闘力は53万」の解答
 
 [問題](../problems/020-password-strength-indicator.md) / [ヒント](../hints/020-password-strength-indicator.md)
+
+**難易度:** ☆☆☆
 
 ## 方針
 

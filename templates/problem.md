@@ -1,11 +1,14 @@
 ---
 title: "NNN: タイトル"
 description: "この演習で扱う対象を1文で書く。"
+difficulty: 1
 ---
 
 # NNN: タイトル
 
 [ヒント](../hints/NNN-slug.md) / [解答](../solutions/NNN-slug.md)
+
+**難易度:** ☆
 
 ## 問題
 

@@ -1,11 +1,14 @@
 ---
 title: "024: 「1+1=?」の解答"
 description: "値を2で割った余りに正規化し、F2の演算を特殊メソッドで定義する。"
+difficulty: 4
 ---
 
 # 024: 「1+1=?」の解答
 
 [問題](../problems/024-one-plus-one.md) / [ヒント](../hints/024-one-plus-one.md)
+
+**難易度:** ☆☆☆☆
 
 ## 方針
 

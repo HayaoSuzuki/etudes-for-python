@@ -1,11 +1,14 @@
 ---
 title: "011: 「G.C.D」の解答"
 description: "余りが0になるまで2つの数を更新する。"
+difficulty: 2
 ---
 
 # 011: 「G.C.D」の解答
 
 [問題](../problems/011-euclidean-algorithm.md) / [ヒント](../hints/011-euclidean-algorithm.md)
+
+**難易度:** ☆☆
 
 ## 方針
 

@@ -1,11 +1,14 @@
 ---
 title: "012: 「夜の金網をくぐり抜け」のヒント"
 description: "倍数を合成数として消していく。"
+difficulty: 3
 ---
 
 # 012: 「夜の金網をくぐり抜け」のヒント
 
 [問題](../problems/012-sieve-of-eratosthenes.md) / [解答](../solutions/012-sieve-of-eratosthenes.md)
+
+**難易度:** ☆☆☆
 
 ??? tip "ヒント1"
 

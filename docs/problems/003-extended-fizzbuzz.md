@@ -1,11 +1,14 @@
 ---
 title: "003: 七五三"
 description: "3、5、7の倍数に応じて文字列を作る関数を書く。"
+difficulty: 2
 ---
 
 # 003: 七五三
 
 [ヒント](../hints/003-extended-fizzbuzz.md) / [解答](../solutions/003-extended-fizzbuzz.md)
+
+**難易度:** ☆☆
 
 ## 問題
 

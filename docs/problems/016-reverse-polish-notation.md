@@ -1,11 +1,14 @@
 ---
 title: "016: 計算機上に実装する電卓"
 description: "スタックを使って逆ポーランド記法の式を評価する。"
+difficulty: 3
 ---
 
 # 016: 計算機上に実装する電卓
 
 [ヒント](../hints/016-reverse-polish-notation.md) / [解答](../solutions/016-reverse-polish-notation.md)
+
+**難易度:** ☆☆☆
 
 ## 問題
 

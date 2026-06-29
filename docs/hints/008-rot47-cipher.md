@@ -1,11 +1,14 @@
 ---
 title: "008: 「メリー・ポピンズからの暗号文」のヒント"
 description: "印字可能ASCII文字を94文字の輪として扱う。"
+difficulty: 2
 ---
 
 # 008: 「メリー・ポピンズからの暗号文」のヒント
 
 [問題](../problems/008-rot47-cipher.md) / [解答](../solutions/008-rot47-cipher.md)
+
+**難易度:** ☆☆
 
 ??? tip "ヒント1"
 

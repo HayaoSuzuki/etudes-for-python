@@ -1,11 +1,14 @@
 ---
 title: "019: 紅美鈴はよく眠る"
 description: "正規表現を使って、パスワードが規則を満たすか検査する。"
+difficulty: 3
 ---
 
 # 019: 紅美鈴はよく眠る
 
 [ヒント](../hints/019-password-validator.md) / [解答](../solutions/019-password-validator.md)
+
+**難易度:** ☆☆☆
 
 ## 問題
 

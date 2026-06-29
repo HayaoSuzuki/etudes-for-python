@@ -1,11 +1,14 @@
 ---
 title: "005: 「フィボナッチの四重奏」のヒント"
 description: "再帰式を前から表にして計算する。"
+difficulty: 3
 ---
 
 # 005: 「フィボナッチの四重奏」のヒント
 
 [問題](../problems/005-tetranacci.md) / [解答](../solutions/005-tetranacci.md)
+
+**難易度:** ☆☆☆
 
 ??? tip "ヒント1"
 

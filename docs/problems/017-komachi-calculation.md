@@ -1,11 +1,14 @@
 ---
 title: "017: 百夜通い"
 description: "1から9の間に演算子を入れて100になる式をすべて列挙する。"
+difficulty: 5
 ---
 
 # 017: 百夜通い
 
 [ヒント](../hints/017-komachi-calculation.md) / [解答](../solutions/017-komachi-calculation.md)
+
+**難易度:** ☆☆☆☆☆
 
 ## 問題
 
